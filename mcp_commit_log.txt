@@ -1,0 +1,668 @@
+[2025-04-10 19:19:44.955204] ⚠️ 오늘 커밋 없음 → 커밋 제안 요청됨
+[2025-04-10 19:19:44.955659] 💡 커밋 제안:
+1. "feat: Implemented new feature X" - 새로운 기능 X가 구현되었습니다.
+
+2. "fix: Fixed bug related to function Y" - 함수 Y에 대한 버그를 해결했습니다.
+
+3. "docs: Updated documentation for module Z" - 모듈 Z의 문서를 업데이트하였습니다.
+
+4. "refactor: Improved code structure of package A" - 패키지 A의 코드 구조를 개선하였습니다.
+
+5. "chore: Automated build process using Jenkins" - Jenkins로 빌드 프로세스를 자동화했습니다.
+[2025-04-10 19:22:37.180226] ⚠️ 오늘 커밋 없음 → 커밋 제안 요청됨
+[2025-04-10 19:22:37.180451] ❌ 변경된 파일이 없습니다.
+[2025-04-10 19:23:51.657336] ⚠️ 오늘 커밋 없음 → 커밋 제안 요청됨
+[2025-04-10 19:23:51.657553] 💡 커밋 제안:
+"Update check_commit.py, mcp_client.py and add commit log in mcp_commit_log.txt (Conventional Commits: refactor)"
+
+이번에 변경된 파일들은 `check_commit.py`, `mcp_client.py`, `mcp_commit_log.txt` 파일이며, 해당 변경 사항을 Conventional Commit 형식으로 정리하면 "Update check_commit.py, mcp_client.py and add commit log in mcp_commit_log.txt (Conventional Commits: refactor)"와 같습니다.
+[2025-04-10 20:19:49.645598] ⚠️ 오늘 커밋 없음 → 커밋 제안 요청됨
+[2025-04-10 20:19:49.646071] "Refactor: Updated mcp_client.py and mcp_server.py for improved functionality"
+
+또는
+
+"Update: Implemented changes in mcp_client.py, mcp_commit_log.txt, and mcp_server.py for better performance"
+
+또는
+
+"Fix: Rectified issues in mcp_client.py, log recorded in mcp_commit_log.txt, updated mcp_server.py"
+[2025-04-10 20:19:49.646691] ❌ 커밋 메시지를 추출하지 못했습니다
+[2025-04-10 20:21:17.611382] ⚠️ 오늘 커밋 없음 → 커밋 제안 요청됨
+[2025-04-10 20:21:17.611625] fix: resolved issue in mcp_client.py and mcp_server.py
+[2025-04-10 20:21:20.420560] ✅ 커밋 & 푸시 완료됨: 'fix: resolved issue in mcp_client.py and mcp_server.py'
+[2025-04-10 21:49:14.604903] ⚠️ 오늘 커밋 없음 → 커밋 제안 요청됨
+[2025-04-10 21:49:14.605136] `fix: resolved issue with mcp_client and mcp_server communication`
+[2025-04-10 21:49:14.605717] ❌ 커밋 메시지를 추출하지 못했습니다
+[2025-04-13 17:58:10.240800] 🟢 MCP 서버 시작됨
+[2025-04-13 18:11:31.912021] 🟢 MCP 서버 시작됨
+[2025-04-13 18:11:31.912951] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 18:15:25.208809] 🟢 MCP 서버 시작 시도 중
+[2025-04-13 18:15:25.209436] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 21:34:05.722603] 🟢 MCP 서버 시작
+[2025-04-13 21:34:05.722991] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 21:38:58.942477] 🟢 MCP 서버 시작
+[2025-04-13 21:38:58.943030] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 22:35:51.195616] ❌ MCP 서버 실행 중 예외 발생: 'cp949' codec can't encode character '\U0001f7e2' in position 0: illegal multibyte sequence
+[2025-04-13 22:37:23.640837] MCP 서버 시작
+[2025-04-13 22:37:23.641314] MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 22:39:57.620136] MCP 서버 시작
+[2025-04-13 22:39:57.620821] MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 22:44:12.827416] 🔌 MCP 서버 시작 준비
+[2025-04-13 22:44:12.827707] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 22:44:48.014489] 🔌 MCP 서버 시작 준비
+[2025-04-13 22:44:48.014694] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 22:52:33.005980] 🔌 MCP 서버 시작 준비
+[2025-04-13 22:52:33.006199] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 22:52:50.285324] 🔌 MCP 서버 시작 준비
+[2025-04-13 22:52:50.285592] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 22:57:15.871657] 🔌 MCP 서버 시작 준비
+[2025-04-13 22:57:15.872107] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 23:01:22.649953] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:01:22.650275] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 23:03:39.700275] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:03:39.701004] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 23:05:34.123631] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:05:34.123921] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 23:11:08.696272] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:12:07.300594] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:13:23.495426] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:15:12.335771] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:16:53.582538] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:16:53.583008] ❌ 서버 처리 중 예외 발생: 'FastMCP' object has no attribute 'handle'
+[2025-04-13 23:25:03.064637] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:25:03.065087] ❌ 서버 처리 중 예외 발생: 'FastMCP' object has no attribute 'handle'
+[2025-04-13 23:28:19.059728] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:28:19.060020] ❌ 서버 처리 중 예외 발생: 'FastMCP' object has no attribute 'handle'
+[2025-04-13 23:29:58.252896] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:29:58.253296] 🌐 MCP 서버 주소: http://127.0.0.1:3333
+[2025-04-13 23:31:31.774600] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:31:31.775057] ❌ 서버 처리 중 예외 발생: 'FastMCP' object has no attribute 'handle'
+[2025-04-13 23:33:12.089367] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:33:24.207864] 🔌 MCP 서버 시작 준비
+[2025-04-13 23:33:24.208289] ❌ 서버 처리 중 예외 발생: 'FastMCP' object has no attribute 'handle'
+[2025-04-13 23:33:50.128453] ✅ 커밋 & 푸시 완료됨: 'feat: manual commit'
+[2025-04-14 20:45:37.183867] 🔌 MCP 서버 시작 준비
+[2025-04-14 20:45:37.184091] ❌ MCP 서버 실행 중 예외 발생: name 'PORT' is not defined
+[2025-04-14 20:46:25.137465] 🔌 MCP 서버 시작 준비
+[2025-04-14 20:46:25.137655] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-14 20:52:46.334904] 🔌 MCP 서버 시작 준비
+[2025-04-14 20:52:46.335121] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-14 21:04:55.547094] 🔌 MCP 서버 시작 준비
+[2025-04-14 21:04:55.547322] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-14 21:06:58.776383] 🔌 MCP 서버 시작 준비
+[2025-04-14 21:06:58.776621] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-14 21:17:36.083023] 🔍 check_commit_activity 호출됨
+[2025-04-14 21:17:36.885387] 📡 GitHub API 호출 완료
+[2025-04-14 21:17:36.899002] 🧠 LLM 커밋 제안 요청 시작
+[2025-04-14 21:17:45.413921] 🧠 모델 응답: {'model': 'mistral', 'created_at': '2025-04-14T12:17:45.4083654Z', 'response': ' fix: resolved issue with mcp_client_log, mcp_commit_log and updated mcp_server.py', 'done': True, 'done_reason': 'stop', 'context': [3, 1027, 29811, 30649, 29473, 30574, 30183, 30707, 29783, 29473, 30669, 30421, 30616, 31359, 30338, 29962, 29811, 29515, 781, 29501, 1119, 4868, 29516, 29502, 29549, 29498, 29502, 29542, 29516, 29487, 5511, 29498, 4073, 29498, 2350, 29491, 7856, 781, 29501, 1119, 4868, 29516, 29502, 29549, 29498, 29502, 29542, 29516, 29487, 5511, 29498, 14886, 29498, 2350, 29491, 7856, 781, 29501, 1119, 4868, 29516, 29502, 29549, 29498, 29502, 29542, 29516, 29487, 5511, 29498, 5091, 29491, 3602, 781, 29783, 29473, 30669, 30421, 29473, 30083, 31736, 29957, 29473, 29932, 30960, 30351, 29911, 29473, 30050, 29473, 31828, 32173, 30056, 29473, 32350, 1006, 947, 910, 29473, 30596, 30004, 29929, 29968, 29473, 29904, 30463, 30525, 29473, 30294, 31093, 30194, 30325, 30489, 30285, 29491, 29473, 31266, 31123, 30306, 29473, 30960, 30238, 30004, 29473, 29811, 30649, 29957, 29473, 32127, 31859, 30489, 30285, 29515, 2320, 29078, 29515, 4618, 7619, 2320, 7960, 29515, 4618, 7619, 2320, 1781, 7643, 29515, 4618, 29600, 29473, 31158, 29491, 29473, 31246, 30201, 29911, 29493, 29473, 30334, 30478, 30062, 29911, 29473, 30004, 30549, 29904, 32486, 29473, 1007, 960, 927, 1006, 932, 931, 29473, 1006, 917, 935, 29916, 29473, 30050, 29473, 1007, 956, 955, 29473, 1006, 928, 903, 30279, 29473, 30596, 30004, 29929, 29968, 29473, 30549, 30233, 30194, 30325, 30489, 30285, 29491, 29473, 31310, 30004, 29515, 2320, 29078, 29515, 1735, 15338, 15918, 29600, 4, 1027, 7061, 29515, 16581, 5059, 1163, 1058, 5511, 29498, 4073, 29498, 2350, 29493, 1058, 5511, 29498, 14886, 29498, 2350, 1072, 9225, 1058, 5511, 29498, 5091, 29491, 3602], 'total_duration': 5708628800, 'load_duration': 4727627900, 'prompt_eval_count': 217, 'prompt_eval_duration': 505197900, 'eval_count': 27, 'eval_duration': 467147400}
+[2025-04-14 21:17:45.414946] 🧠 LLM 커밋 제안 요청 완료
+[2025-04-14 21:17:45.415482] fix: resolved issue with mcp_client_log, mcp_commit_log and updated mcp_server.py
+[2025-04-14 21:17:45.416006] 🚀 validate_commit_convention 호출됨
+[2025-04-14 21:17:45.416474] 메시지: fix: resolved issue with mcp_client_log, mcp_commit_log and updated mcp_server.py
+[2025-04-14 21:17:51.406642] ✅ 커밋 & 푸시 완료됨: 'fix: resolved issue with mcp_client_log, mcp_commit_log and updated mcp_server.py'
+[2025-04-15 19:08:04.733631] 🔌 MCP 서버 시작 준비
+[2025-04-15 19:08:04.734021] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-16 18:49:39.994132] 🔌 MCP 서버 시작 준비
+[2025-04-16 18:49:39.994575] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-16 18:53:10.576387] 🔌 MCP 서버 시작 준비
+[2025-04-16 18:53:10.576600] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-16 18:55:04.010300] 📁 TIL_ROOT 경로 확인: C:\Users\Dia\TIL\MCP
+[2025-04-16 18:55:04.206962] 🔍 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/mcp_server.py']
+[2025-04-16 18:55:04.233397] ❌ batch_commit 예외: Command '['git', 'diff', 'MCP/04_09/mcp_commit_log.txt']' returned non-zero exit status 128.
+[2025-04-16 18:59:13.426018] 📁 TIL_ROOT 경로 확인: C:\Users\Dia\TIL\MCP
+[2025-04-16 18:59:13.600858] 🔍 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/mcp_server.py']
+[2025-04-16 18:59:13.627238] ❌ batch_commit 예외: Command '['git', 'diff', 'MCP/04_09/mcp_commit_log.txt']' returned non-zero exit status 128.
+[2025-04-16 19:03:11.477957] 📁 TIL_ROOT 경로 확인: C:\Users\Dia\TIL\MCP
+[2025-04-16 19:03:11.666732] 🔍 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/mcp_server.py']
+[2025-04-16 19:03:11.693824] ❌ batch_commit 예외: Command '['git', 'diff', 'MCP/04_09/mcp_commit_log.txt']' returned non-zero exit status 128.
+[2025-04-16 19:19:13.677733] 🔌 MCP 서버 시작 준비
+[2025-04-16 19:19:13.677944] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-16 19:23:36.780082] 🔌 MCP 서버 시작 준비
+[2025-04-16 19:23:36.780303] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-16 19:27:29.260486] 🔌 MCP 서버 시작 준비
+[2025-04-16 19:27:29.260694] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-16 19:37:04.425807] 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/mcp_server.py', '.idea/.gitignore', '.idea/.name', '.idea/TIL.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/modules.xml', '.idea/vcs.xml', 'Computer_Science/EIP/Requirement.md', 'Computer_Science/EIP/images/Data_Flow.png', 'Front_End/04_08/my-app/.gitignore', 'Front_End/04_08/my-app/README.md', 'Front_End/04_08/my-app/package-lock.json', 'Front_End/04_08/my-app/package.json', 'Front_End/04_08/my-app/public/favicon.ico', 'Front_End/04_08/my-app/public/index.html', 'Front_End/04_08/my-app/public/logo192.png', 'Front_End/04_08/my-app/public/logo512.png', 'Front_End/04_08/my-app/public/manifest.json', 'Front_End/04_08/my-app/public/robots.txt', 'Front_End/04_08/my-app/src/App.css', 'Front_End/04_08/my-app/src/App.test.tsx', 'Front_End/04_08/my-app/src/App.tsx', 'Front_End/04_08/my-app/src/index.css', 'Front_End/04_08/my-app/src/index.tsx', 'Front_End/04_08/my-app/src/logo.svg', 'Front_End/04_08/my-app/src/react-app-env.d.ts', 'Front_End/04_08/my-app/src/reportWebVitals.ts', 'Front_End/04_08/my-app/src/setupTests.ts', 'Front_End/04_08/my-app/tsconfig.json']
+[2025-04-16 19:37:14.861049] LLM으로부터 받은 메시지 for MCP/04_09/mcp_commit_log.txt: Based on the changes provided, a one-liner Conventional Commit message in English that follows the specified format would be:
+
+```
+fix: MCP files and Front End updates
+```
+[2025-04-16 19:37:14.861527] [형식 오류] MCP/04_09/mcp_commit_log.txt: Based on the changes provided, a one-liner Conventional Commit message in English that follows the specified format would be:
+
+```
+fix: MCP files and Front End updates
+```
+[2025-04-16 19:37:20.491100] LLM으로부터 받은 메시지 for MCP/04_09/mcp_server.py: 1. `feat: Implement batch commit functionality`
+2. `fix: Error handling for failed Git commands in batch_commit`
+3. `refactor: Modify file structure and improve code organization`
+4. `doc: Update README with changes and improvements`
+5. `test: Add new test cases for batch commit function`
+6. `style: Format code according to style guide`
+[2025-04-16 19:37:20.491410] [형식 오류] MCP/04_09/mcp_server.py: 1. `feat: Implement batch commit functionality`
+2. `fix: Error handling for failed Git commands in batch_commit`
+3. `refactor: Modify file structure and improve code organization`
+4. `doc: Update README with changes and improvements`
+5. `test: Add new test cases for batch commit function`
+6. `style: Format code according to style guide`
+[2025-04-16 19:37:20.553551] [스킵] .idea/.gitignore: 변경 내용이 없음
+[2025-04-16 19:37:20.614711] [스킵] .idea/.name: 변경 내용이 없음
+[2025-04-16 19:37:20.679399] [스킵] .idea/TIL.iml: 변경 내용이 없음
+[2025-04-16 19:37:20.751673] [스킵] .idea/inspectionProfiles/profiles_settings.xml: 변경 내용이 없음
+[2025-04-16 19:37:20.819852] [스킵] .idea/modules.xml: 변경 내용이 없음
+[2025-04-16 19:37:20.887018] [스킵] .idea/vcs.xml: 변경 내용이 없음
+[2025-04-16 19:37:20.956306] [스킵] Computer_Science/EIP/Requirement.md: 변경 내용이 없음
+[2025-04-16 19:37:21.033622] [스킵] Computer_Science/EIP/images/Data_Flow.png: 변경 내용이 없음
+[2025-04-16 19:37:21.108623] [스킵] Front_End/04_08/my-app/.gitignore: 변경 내용이 없음
+[2025-04-16 19:37:21.182590] [스킵] Front_End/04_08/my-app/README.md: 변경 내용이 없음
+[2025-04-16 19:37:21.254128] [스킵] Front_End/04_08/my-app/package-lock.json: 변경 내용이 없음
+[2025-04-16 19:37:21.325658] [스킵] Front_End/04_08/my-app/package.json: 변경 내용이 없음
+[2025-04-16 19:37:21.408301] [스킵] Front_End/04_08/my-app/public/favicon.ico: 변경 내용이 없음
+[2025-04-16 19:37:21.481978] [스킵] Front_End/04_08/my-app/public/index.html: 변경 내용이 없음
+[2025-04-16 19:37:21.553886] [스킵] Front_End/04_08/my-app/public/logo192.png: 변경 내용이 없음
+[2025-04-16 19:37:21.625716] [스킵] Front_End/04_08/my-app/public/logo512.png: 변경 내용이 없음
+[2025-04-16 19:37:21.702342] [스킵] Front_End/04_08/my-app/public/manifest.json: 변경 내용이 없음
+[2025-04-16 19:37:21.777891] [스킵] Front_End/04_08/my-app/public/robots.txt: 변경 내용이 없음
+[2025-04-16 19:37:21.850750] [스킵] Front_End/04_08/my-app/src/App.css: 변경 내용이 없음
+[2025-04-16 19:37:21.928250] [스킵] Front_End/04_08/my-app/src/App.test.tsx: 변경 내용이 없음
+[2025-04-16 19:37:22.012624] [스킵] Front_End/04_08/my-app/src/App.tsx: 변경 내용이 없음
+[2025-04-16 19:37:22.101797] [스킵] Front_End/04_08/my-app/src/index.css: 변경 내용이 없음
+[2025-04-16 19:37:22.181094] [스킵] Front_End/04_08/my-app/src/index.tsx: 변경 내용이 없음
+[2025-04-16 19:37:22.258022] [스킵] Front_End/04_08/my-app/src/logo.svg: 변경 내용이 없음
+[2025-04-16 19:37:22.336232] [스킵] Front_End/04_08/my-app/src/react-app-env.d.ts: 변경 내용이 없음
+[2025-04-16 19:37:22.414061] [스킵] Front_End/04_08/my-app/src/reportWebVitals.ts: 변경 내용이 없음
+[2025-04-16 19:37:22.493311] [스킵] Front_End/04_08/my-app/src/setupTests.ts: 변경 내용이 없음
+[2025-04-16 19:37:22.573678] [스킵] Front_End/04_08/my-app/tsconfig.json: 변경 내용이 없음
+[2025-04-16 19:37:24.607230] 🌐 모든 커밋 후 push 완료
+[2025-04-16 19:53:52.546440] 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/mcp_server.py', '.idea/.gitignore', '.idea/.name', '.idea/TIL.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/modules.xml', '.idea/vcs.xml', 'Computer_Science/EIP/Requirement.md', 'Computer_Science/EIP/images/Data_Flow.png', 'Front_End/04_08/my-app/.gitignore', 'Front_End/04_08/my-app/README.md', 'Front_End/04_08/my-app/package-lock.json', 'Front_End/04_08/my-app/package.json', 'Front_End/04_08/my-app/public/favicon.ico', 'Front_End/04_08/my-app/public/index.html', 'Front_End/04_08/my-app/public/logo192.png', 'Front_End/04_08/my-app/public/logo512.png', 'Front_End/04_08/my-app/public/manifest.json', 'Front_End/04_08/my-app/public/robots.txt', 'Front_End/04_08/my-app/src/App.css', 'Front_End/04_08/my-app/src/App.test.tsx', 'Front_End/04_08/my-app/src/App.tsx', 'Front_End/04_08/my-app/src/index.css', 'Front_End/04_08/my-app/src/index.tsx', 'Front_End/04_08/my-app/src/logo.svg', 'Front_End/04_08/my-app/src/react-app-env.d.ts', 'Front_End/04_08/my-app/src/reportWebVitals.ts', 'Front_End/04_08/my-app/src/setupTests.ts', 'Front_End/04_08/my-app/tsconfig.json']
+[2025-04-16 19:53:59.521565] LLM으로부터 받은 메시지 for MCP/04_09/mcp_commit_log.txt: "chore: Update project files and commit logs"
+[2025-04-16 19:53:59.521824] [형식 오류] MCP/04_09/mcp_commit_log.txt: "chore: Update project files and commit logs"
+[2025-04-16 19:54:03.603166] LLM으로부터 받은 메시지 for MCP/04_09/mcp_server.py: `feat: Implemented batch commit functionality and auto push`
+[2025-04-16 19:54:03.603448] [형식 오류] MCP/04_09/mcp_server.py: `feat: Implemented batch commit functionality and auto push`
+[2025-04-16 19:54:03.657405] [스킵] .idea/.gitignore: 변경 내용이 없음
+[2025-04-16 19:54:03.714722] [스킵] .idea/.name: 변경 내용이 없음
+[2025-04-16 19:54:03.772311] [스킵] .idea/TIL.iml: 변경 내용이 없음
+[2025-04-16 19:54:03.831990] [스킵] .idea/inspectionProfiles/profiles_settings.xml: 변경 내용이 없음
+[2025-04-16 19:54:03.892234] [스킵] .idea/modules.xml: 변경 내용이 없음
+[2025-04-16 19:54:03.951942] [스킵] .idea/vcs.xml: 변경 내용이 없음
+[2025-04-16 19:54:04.012962] [스킵] Computer_Science/EIP/Requirement.md: 변경 내용이 없음
+[2025-04-16 19:54:04.464602] [스킵] Computer_Science/EIP/images/Data_Flow.png: 변경 내용이 없음
+[2025-04-16 19:54:04.647671] [스킵] Front_End/04_08/my-app/.gitignore: 변경 내용이 없음
+[2025-04-16 19:54:05.521525] [스킵] Front_End/04_08/my-app/README.md: 변경 내용이 없음
+[2025-04-16 19:54:06.207419] [스킵] Front_End/04_08/my-app/package-lock.json: 변경 내용이 없음
+[2025-04-16 19:54:06.871079] [스킵] Front_End/04_08/my-app/package.json: 변경 내용이 없음
+[2025-04-16 19:54:06.992441] [스킵] Front_End/04_08/my-app/public/favicon.ico: 변경 내용이 없음
+[2025-04-16 19:54:07.095691] [스킵] Front_End/04_08/my-app/public/index.html: 변경 내용이 없음
+[2025-04-16 19:54:07.181646] [스킵] Front_End/04_08/my-app/public/logo192.png: 변경 내용이 없음
+[2025-04-16 19:54:07.248752] [스킵] Front_End/04_08/my-app/public/logo512.png: 변경 내용이 없음
+[2025-04-16 19:54:07.317007] [스킵] Front_End/04_08/my-app/public/manifest.json: 변경 내용이 없음
+[2025-04-16 19:54:07.390978] [스킵] Front_End/04_08/my-app/public/robots.txt: 변경 내용이 없음
+[2025-04-16 19:54:07.461367] [스킵] Front_End/04_08/my-app/src/App.css: 변경 내용이 없음
+[2025-04-16 19:54:07.529685] [스킵] Front_End/04_08/my-app/src/App.test.tsx: 변경 내용이 없음
+[2025-04-16 19:54:07.600675] [스킵] Front_End/04_08/my-app/src/App.tsx: 변경 내용이 없음
+[2025-04-16 19:54:07.670307] [스킵] Front_End/04_08/my-app/src/index.css: 변경 내용이 없음
+[2025-04-16 19:54:07.739776] [스킵] Front_End/04_08/my-app/src/index.tsx: 변경 내용이 없음
+[2025-04-16 19:54:07.812838] [스킵] Front_End/04_08/my-app/src/logo.svg: 변경 내용이 없음
+[2025-04-16 19:54:07.887780] [스킵] Front_End/04_08/my-app/src/react-app-env.d.ts: 변경 내용이 없음
+[2025-04-16 19:54:07.963126] [스킵] Front_End/04_08/my-app/src/reportWebVitals.ts: 변경 내용이 없음
+[2025-04-16 19:54:08.034374] [스킵] Front_End/04_08/my-app/src/setupTests.ts: 변경 내용이 없음
+[2025-04-16 19:54:08.106891] [스킵] Front_End/04_08/my-app/tsconfig.json: 변경 내용이 없음
+[2025-04-16 19:54:10.250952] 🌐 모든 커밋 후 push 완료
+[2025-04-16 19:56:49.291420] 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/mcp_server.py', '.idea/.gitignore', '.idea/.name', '.idea/TIL.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/modules.xml', '.idea/vcs.xml', 'Computer_Science/EIP/Requirement.md', 'Computer_Science/EIP/images/Data_Flow.png', 'Front_End/04_08/my-app/.gitignore', 'Front_End/04_08/my-app/README.md', 'Front_End/04_08/my-app/package-lock.json', 'Front_End/04_08/my-app/package.json', 'Front_End/04_08/my-app/public/favicon.ico', 'Front_End/04_08/my-app/public/index.html', 'Front_End/04_08/my-app/public/logo192.png', 'Front_End/04_08/my-app/public/logo512.png', 'Front_End/04_08/my-app/public/manifest.json', 'Front_End/04_08/my-app/public/robots.txt', 'Front_End/04_08/my-app/src/App.css', 'Front_End/04_08/my-app/src/App.test.tsx', 'Front_End/04_08/my-app/src/App.tsx', 'Front_End/04_08/my-app/src/index.css', 'Front_End/04_08/my-app/src/index.tsx', 'Front_End/04_08/my-app/src/logo.svg', 'Front_End/04_08/my-app/src/react-app-env.d.ts', 'Front_End/04_08/my-app/src/reportWebVitals.ts', 'Front_End/04_08/my-app/src/setupTests.ts', 'Front_End/04_08/my-app/tsconfig.json']
+[2025-04-16 19:56:53.775941] LLM으로부터 받은 메시지 for MCP/04_09/mcp_commit_log.txt: "chore: Update project files and commit logs"
+[2025-04-16 19:56:53.776225] [형식 오류] MCP/04_09/mcp_commit_log.txt: "chore: Update project files and commit logs"
+[2025-04-16 19:56:58.965998] LLM으로부터 받은 메시지 for MCP/04_09/mcp_server.py: 1. `feat: Updated batch commit functionality for generating Conventional Commit messages`
+   2. `fix: Fixed error in batch commit when no changes detected`
+   3. `refactor: Refactored code structure in batch commit to improve readability and maintainability`
+[2025-04-16 19:56:58.966276] [형식 오류] MCP/04_09/mcp_server.py: 1. `feat: Updated batch commit functionality for generating Conventional Commit messages`
+   2. `fix: Fixed error in batch commit when no changes detected`
+   3. `refactor: Refactored code structure in batch commit to improve readability and maintainability`
+[2025-04-16 19:56:59.023471] [스킵] .idea/.gitignore: 변경 내용이 없음
+[2025-04-16 19:56:59.086554] [스킵] .idea/.name: 변경 내용이 없음
+[2025-04-16 19:56:59.147158] [스킵] .idea/TIL.iml: 변경 내용이 없음
+[2025-04-16 19:56:59.213521] [스킵] .idea/inspectionProfiles/profiles_settings.xml: 변경 내용이 없음
+[2025-04-16 19:56:59.278171] [스킵] .idea/modules.xml: 변경 내용이 없음
+[2025-04-16 19:56:59.342810] [스킵] .idea/vcs.xml: 변경 내용이 없음
+[2025-04-16 19:56:59.406765] [스킵] Computer_Science/EIP/Requirement.md: 변경 내용이 없음
+[2025-04-16 19:56:59.471688] [스킵] Computer_Science/EIP/images/Data_Flow.png: 변경 내용이 없음
+[2025-04-16 19:56:59.536947] [스킵] Front_End/04_08/my-app/.gitignore: 변경 내용이 없음
+[2025-04-16 19:56:59.602302] [스킵] Front_End/04_08/my-app/README.md: 변경 내용이 없음
+[2025-04-16 19:56:59.669013] [스킵] Front_End/04_08/my-app/package-lock.json: 변경 내용이 없음
+[2025-04-16 19:56:59.750227] [스킵] Front_End/04_08/my-app/package.json: 변경 내용이 없음
+[2025-04-16 19:56:59.829148] [스킵] Front_End/04_08/my-app/public/favicon.ico: 변경 내용이 없음
+[2025-04-16 19:56:59.903089] [스킵] Front_End/04_08/my-app/public/index.html: 변경 내용이 없음
+[2025-04-16 19:56:59.976030] [스킵] Front_End/04_08/my-app/public/logo192.png: 변경 내용이 없음
+[2025-04-16 19:57:00.060549] [스킵] Front_End/04_08/my-app/public/logo512.png: 변경 내용이 없음
+[2025-04-16 19:57:00.137128] [스킵] Front_End/04_08/my-app/public/manifest.json: 변경 내용이 없음
+[2025-04-16 19:57:00.209178] [스킵] Front_End/04_08/my-app/public/robots.txt: 변경 내용이 없음
+[2025-04-16 19:57:00.279555] [스킵] Front_End/04_08/my-app/src/App.css: 변경 내용이 없음
+[2025-04-16 19:57:00.349411] [스킵] Front_End/04_08/my-app/src/App.test.tsx: 변경 내용이 없음
+[2025-04-16 19:57:00.420915] [스킵] Front_End/04_08/my-app/src/App.tsx: 변경 내용이 없음
+[2025-04-16 19:57:00.491639] [스킵] Front_End/04_08/my-app/src/index.css: 변경 내용이 없음
+[2025-04-16 19:57:00.576146] [스킵] Front_End/04_08/my-app/src/index.tsx: 변경 내용이 없음
+[2025-04-16 19:57:00.675974] [스킵] Front_End/04_08/my-app/src/logo.svg: 변경 내용이 없음
+[2025-04-16 19:57:00.755775] [스킵] Front_End/04_08/my-app/src/react-app-env.d.ts: 변경 내용이 없음
+[2025-04-16 19:57:00.836671] [스킵] Front_End/04_08/my-app/src/reportWebVitals.ts: 변경 내용이 없음
+[2025-04-16 19:57:00.911600] [스킵] Front_End/04_08/my-app/src/setupTests.ts: 변경 내용이 없음
+[2025-04-16 19:57:00.983212] [스킵] Front_End/04_08/my-app/tsconfig.json: 변경 내용이 없음
+[2025-04-16 19:57:02.337693] 🌐 모든 커밋 후 push 완료
+[2025-04-21 20:02:29.257640] 🔌 MCP 서버 시작 준비
+[2025-04-21 20:02:29.262717] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-21 20:08:46.632507] 🔌 MCP 서버 시작 준비
+[2025-04-21 20:08:46.632717] 🌐 MCP 서버 주소: http://127.0.0.1:8000
+[2025-04-21 20:10:05.112929] 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/mcp_server.py', '.idea/.gitignore', '.idea/.name', '.idea/TIL.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/modules.xml', '.idea/vcs.xml', 'Computer_Science/EIP/Requirement.md', 'Computer_Science/EIP/images/Data_Flow.png', 'Front_End/04_08/my-app/.gitignore', 'Front_End/04_08/my-app/README.md', 'Front_End/04_08/my-app/package-lock.json', 'Front_End/04_08/my-app/package.json', 'Front_End/04_08/my-app/public/favicon.ico', 'Front_End/04_08/my-app/public/index.html', 'Front_End/04_08/my-app/public/logo192.png', 'Front_End/04_08/my-app/public/logo512.png', 'Front_End/04_08/my-app/public/manifest.json', 'Front_End/04_08/my-app/public/robots.txt', 'Front_End/04_08/my-app/src/App.css', 'Front_End/04_08/my-app/src/App.test.tsx', 'Front_End/04_08/my-app/src/App.tsx', 'Front_End/04_08/my-app/src/index.css', 'Front_End/04_08/my-app/src/index.tsx', 'Front_End/04_08/my-app/src/logo.svg', 'Front_End/04_08/my-app/src/react-app-env.d.ts', 'Front_End/04_08/my-app/src/reportWebVitals.ts', 'Front_End/04_08/my-app/src/setupTests.ts', 'Front_End/04_08/my-app/tsconfig.json']
+[2025-04-21 20:10:14.891325] LLM으로부터 받은 메시지 for MCP/04_09/mcp_commit_log.txt: Based on the changes listed, a one-liner Conventional Commit message in English following the specified format could be:
+
+    `update: files updated for frontend app`
+[2025-04-21 20:10:14.891681] [형식 오류] MCP/04_09/mcp_commit_log.txt: Based on the changes listed, a one-liner Conventional Commit message in English following the specified format could be:
+
+    `update: files updated for frontend app`
+[2025-04-21 20:10:22.292222] LLM으로부터 받은 메시지 for MCP/04_09/mcp_server.py: fix: Added requests library for GitHub API calls and added check_commit_activity endpoint to determine if commit activity exists on a given day.
+
+  이렇게 한 줄짜리 Conventional Commit 형식의 커밋 메시지를 생성했습니다.
+  형식은 `fix:`로 시작하고, 해당 커밋에서 수행된 작업(Adding requests library for GitHub API calls and added check_commit_activity endpoint)을 설명합니다.
+  변경사항이 여러 가지일 경우 가장 핵심적인 convention(fix)을 하나만 선택하여 생성했습니다.
+[2025-04-21 20:10:22.865688] ✅ MCP/04_09/mcp_server.py 커밋됨: fix: Added requests library for GitHub API calls and added check_commit_activity endpoint to determine if commit activity exists on a given day.
+
+  이렇게 한 줄짜리 Conventional Commit 형식의 커밋 메시지를 생성했습니다.
+  형식은 `fix:`로 시작하고, 해당 커밋에서 수행된 작업(Adding requests library for GitHub API calls and added check_commit_activity endpoint)을 설명합니다.
+  변경사항이 여러 가지일 경우 가장 핵심적인 convention(fix)을 하나만 선택하여 생성했습니다.
+[2025-04-21 20:10:22.950447] [스킵] .idea/.gitignore: 변경 내용이 없음
+[2025-04-21 20:10:23.028390] [스킵] .idea/.name: 변경 내용이 없음
+[2025-04-21 20:10:23.093517] [스킵] .idea/TIL.iml: 변경 내용이 없음
+[2025-04-21 20:10:23.159926] [스킵] .idea/inspectionProfiles/profiles_settings.xml: 변경 내용이 없음
+[2025-04-21 20:10:23.227329] [스킵] .idea/modules.xml: 변경 내용이 없음
+[2025-04-21 20:10:23.292710] [스킵] .idea/vcs.xml: 변경 내용이 없음
+[2025-04-21 20:10:23.360461] [스킵] Computer_Science/EIP/Requirement.md: 변경 내용이 없음
+[2025-04-21 20:10:23.435985] [스킵] Computer_Science/EIP/images/Data_Flow.png: 변경 내용이 없음
+[2025-04-21 20:10:23.551214] [스킵] Front_End/04_08/my-app/.gitignore: 변경 내용이 없음
+[2025-04-21 20:10:23.678341] [스킵] Front_End/04_08/my-app/README.md: 변경 내용이 없음
+[2025-04-21 20:10:23.776625] [스킵] Front_End/04_08/my-app/package-lock.json: 변경 내용이 없음
+[2025-04-21 20:10:23.869218] [스킵] Front_End/04_08/my-app/package.json: 변경 내용이 없음
+[2025-04-21 20:10:23.957033] [스킵] Front_End/04_08/my-app/public/favicon.ico: 변경 내용이 없음
+[2025-04-21 20:10:24.039547] [스킵] Front_End/04_08/my-app/public/index.html: 변경 내용이 없음
+[2025-04-21 20:10:24.122382] [스킵] Front_End/04_08/my-app/public/logo192.png: 변경 내용이 없음
+[2025-04-21 20:10:24.205350] [스킵] Front_End/04_08/my-app/public/logo512.png: 변경 내용이 없음
+[2025-04-21 20:10:24.274250] [스킵] Front_End/04_08/my-app/public/manifest.json: 변경 내용이 없음
+[2025-04-21 20:10:24.341154] [스킵] Front_End/04_08/my-app/public/robots.txt: 변경 내용이 없음
+[2025-04-21 20:10:24.407065] [스킵] Front_End/04_08/my-app/src/App.css: 변경 내용이 없음
+[2025-04-21 20:10:24.479714] [스킵] Front_End/04_08/my-app/src/App.test.tsx: 변경 내용이 없음
+[2025-04-21 20:10:24.551578] [스킵] Front_End/04_08/my-app/src/App.tsx: 변경 내용이 없음
+[2025-04-21 20:10:24.624713] [스킵] Front_End/04_08/my-app/src/index.css: 변경 내용이 없음
+[2025-04-21 20:10:24.694652] [스킵] Front_End/04_08/my-app/src/index.tsx: 변경 내용이 없음
+[2025-04-21 20:10:24.760632] [스킵] Front_End/04_08/my-app/src/logo.svg: 변경 내용이 없음
+[2025-04-21 20:10:24.835024] [스킵] Front_End/04_08/my-app/src/react-app-env.d.ts: 변경 내용이 없음
+[2025-04-21 20:10:24.918455] [스킵] Front_End/04_08/my-app/src/reportWebVitals.ts: 변경 내용이 없음
+[2025-04-21 20:10:25.000046] [스킵] Front_End/04_08/my-app/src/setupTests.ts: 변경 내용이 없음
+[2025-04-21 20:10:25.084641] [스킵] Front_End/04_08/my-app/tsconfig.json: 변경 내용이 없음
+[2025-04-21 20:10:28.061540] 🌐 모든 커밋 후 push 완료
+[2025-04-21 20:52:54.291968] 🔌 MCP 서버 시작 준비
+[2025-04-21 20:52:54.292163] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-21 20:56:32.201011] 🔌 MCP 서버 시작 준비
+[2025-04-21 20:56:32.201383] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-21 21:00:51.946960] 🔌 MCP 서버 시작 준비
+[2025-04-21 21:00:51.947193] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-21 21:02:27.095899] 🔌 MCP 서버 시작 준비
+[2025-04-21 21:02:27.096116] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-21 21:04:14.603921] 🔌 MCP 서버 시작 준비
+[2025-04-21 21:04:14.604153] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-21 21:17:19.996304] 🔌 MCP 서버 시작 준비
+[2025-04-21 21:17:19.996501] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-21 21:27:11.080628] 🔌 MCP 서버 시작 준비
+[2025-04-21 21:27:11.080830] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-21 23:27:21.250759] 🔌 MCP 서버 시작 준비
+[2025-04-21 23:27:21.252353] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-22 00:10:48.490886] 🔌 MCP 서버 시작 준비
+[2025-04-22 00:10:48.491342] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-22 00:13:31.173359] 🔌 MCP 서버 시작 준비
+[2025-04-22 00:13:31.174079] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-04-22 00:14:00.841698] 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/mcp_server.py', 'MCP/04_09/requirements.txt', '.idea/.gitignore', '.idea/.name', '.idea/TIL.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/modules.xml', '.idea/vcs.xml', 'Computer_Science/EIP/Requirement.md', 'Computer_Science/EIP/images/Data_Flow.png', 'Front_End/04_08/my-app/.gitignore', 'Front_End/04_08/my-app/README.md', 'Front_End/04_08/my-app/package-lock.json', 'Front_End/04_08/my-app/package.json', 'Front_End/04_08/my-app/public/favicon.ico', 'Front_End/04_08/my-app/public/index.html', 'Front_End/04_08/my-app/public/logo192.png', 'Front_End/04_08/my-app/public/logo512.png', 'Front_End/04_08/my-app/public/manifest.json', 'Front_End/04_08/my-app/public/robots.txt', 'Front_End/04_08/my-app/src/App.css', 'Front_End/04_08/my-app/src/App.test.tsx', 'Front_End/04_08/my-app/src/App.tsx', 'Front_End/04_08/my-app/src/index.css', 'Front_End/04_08/my-app/src/index.tsx', 'Front_End/04_08/my-app/src/logo.svg', 'Front_End/04_08/my-app/src/react-app-env.d.ts', 'Front_End/04_08/my-app/src/reportWebVitals.ts', 'Front_End/04_08/my-app/src/setupTests.ts', 'Front_End/04_08/my-app/tsconfig.json']
+[2025-04-22 00:14:16.090623] LLM으로부터 받은 메시지 for MCP/04_09/mcp_commit_log.txt: refactor: Updated MCP server and dependencies in mcp_commit_log.txt, mcp_server.py, requirements.txt
+   feat: Added .gitignore and README.md to Front_End/04_08/my-app directory
+   fix: Fixed favicon.ico, manifest.json, robots.txt in Front_End/04_08/my-app/public
+   refactor: Modified App.css, App.test.tsx, App.tsx, index.css, index.tsx in Front_End/04_08/my-app/src
+   refactor: Changed react-app-env.d.ts and reportWebVitals.ts
+   refactor: Updated .idea/.gitignore, .idea/.name, .idea/TIL.iml, .idea/inspectionProfiles/profiles_settings.xml, .idea/modules.xml, .idea/vcs.xml
+   refactor: Added Computer_Science/EIP/Requirement.md and images/Data_Flow.png to Computer_Science/EIP directory
+   refactor: Changed logo192.png, logo512.png in Front_End/04_08/my-app/public
+   fix: Fixed package-lock.json and package.json in Front_End/04_08/my-app directory
+[2025-04-22 00:14:16.790719] ✅ MCP/04_09/mcp_commit_log.txt 커밋됨: refactor: Updated MCP server and dependencies in mcp_commit_log.txt, mcp_server.py, requirements.txt
+   feat: Added .gitignore and README.md to Front_End/04_08/my-app directory
+   fix: Fixed favicon.ico, manifest.json, robots.txt in Front_End/04_08/my-app/public
+   refactor: Modified App.css, App.test.tsx, App.tsx, index.css, index.tsx in Front_End/04_08/my-app/src
+   refactor: Changed react-app-env.d.ts and reportWebVitals.ts
+   refactor: Updated .idea/.gitignore, .idea/.name, .idea/TIL.iml, .idea/inspectionProfiles/profiles_settings.xml, .idea/modules.xml, .idea/vcs.xml
+   refactor: Added Computer_Science/EIP/Requirement.md and images/Data_Flow.png to Computer_Science/EIP directory
+   refactor: Changed logo192.png, logo512.png in Front_End/04_08/my-app/public
+   fix: Fixed package-lock.json and package.json in Front_End/04_08/my-app directory
+[2025-04-22 00:14:20.627035] LLM으로부터 받은 메시지 for MCP/04_09/mcp_server.py: feat: Add support for dynamically defining and calling tools in MCP server
+[2025-04-22 00:14:21.153956] ✅ MCP/04_09/mcp_server.py 커밋됨: feat: Add support for dynamically defining and calling tools in MCP server
+[2025-04-22 00:14:24.998983] LLM으로부터 받은 메시지 for MCP/04_09/requirements.txt: bump: updated fastapi-mcp to version 0.3.0 in MCP/04_09/requirements.txt
+[2025-04-22 00:14:24.999277] [형식 오류] MCP/04_09/requirements.txt: bump: updated fastapi-mcp to version 0.3.0 in MCP/04_09/requirements.txt
+[2025-04-22 00:14:25.056719] [스킵] .idea/.gitignore: 변경 내용이 없음
+[2025-04-22 00:14:25.123350] [스킵] .idea/.name: 변경 내용이 없음
+[2025-04-22 00:14:25.195988] [스킵] .idea/TIL.iml: 변경 내용이 없음
+[2025-04-22 00:14:25.268661] [스킵] .idea/inspectionProfiles/profiles_settings.xml: 변경 내용이 없음
+[2025-04-22 00:14:25.341816] [스킵] .idea/modules.xml: 변경 내용이 없음
+[2025-04-22 00:14:25.419536] [스킵] .idea/vcs.xml: 변경 내용이 없음
+[2025-04-22 00:14:25.510390] [스킵] Computer_Science/EIP/Requirement.md: 변경 내용이 없음
+[2025-04-22 00:14:25.614507] [스킵] Computer_Science/EIP/images/Data_Flow.png: 변경 내용이 없음
+[2025-04-22 00:14:25.739097] [스킵] Front_End/04_08/my-app/.gitignore: 변경 내용이 없음
+[2025-04-22 00:14:25.824676] [스킵] Front_End/04_08/my-app/README.md: 변경 내용이 없음
+[2025-04-22 00:14:25.906075] [스킵] Front_End/04_08/my-app/package-lock.json: 변경 내용이 없음
+[2025-04-22 00:14:25.981082] [스킵] Front_End/04_08/my-app/package.json: 변경 내용이 없음
+[2025-04-22 00:14:26.058049] [스킵] Front_End/04_08/my-app/public/favicon.ico: 변경 내용이 없음
+[2025-04-22 00:14:26.129200] [스킵] Front_End/04_08/my-app/public/index.html: 변경 내용이 없음
+[2025-04-22 00:14:26.200650] [스킵] Front_End/04_08/my-app/public/logo192.png: 변경 내용이 없음
+[2025-04-22 00:14:26.270891] [스킵] Front_End/04_08/my-app/public/logo512.png: 변경 내용이 없음
+[2025-04-22 00:14:26.345531] [스킵] Front_End/04_08/my-app/public/manifest.json: 변경 내용이 없음
+[2025-04-22 00:14:26.419165] [스킵] Front_End/04_08/my-app/public/robots.txt: 변경 내용이 없음
+[2025-04-22 00:14:26.493612] [스킵] Front_End/04_08/my-app/src/App.css: 변경 내용이 없음
+[2025-04-22 00:14:26.565074] [스킵] Front_End/04_08/my-app/src/App.test.tsx: 변경 내용이 없음
+[2025-04-22 00:14:26.635077] [스킵] Front_End/04_08/my-app/src/App.tsx: 변경 내용이 없음
+[2025-04-22 00:14:26.721109] [스킵] Front_End/04_08/my-app/src/index.css: 변경 내용이 없음
+[2025-04-22 00:14:26.823590] [스킵] Front_End/04_08/my-app/src/index.tsx: 변경 내용이 없음
+[2025-04-22 00:14:26.928359] [스킵] Front_End/04_08/my-app/src/logo.svg: 변경 내용이 없음
+[2025-04-22 00:14:27.026140] [스킵] Front_End/04_08/my-app/src/react-app-env.d.ts: 변경 내용이 없음
+[2025-04-22 00:14:27.139283] [스킵] Front_End/04_08/my-app/src/reportWebVitals.ts: 변경 내용이 없음
+[2025-04-22 00:14:27.268506] [스킵] Front_End/04_08/my-app/src/setupTests.ts: 변경 내용이 없음
+[2025-04-22 00:14:27.411263] [스킵] Front_End/04_08/my-app/tsconfig.json: 변경 내용이 없음
+[2025-04-22 00:14:30.644158] 🌐 모든 커밋 후 push 완료
+[2025-04-22 00:16:18.237962] 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/requirements.txt', '.idea/.gitignore', '.idea/.name', '.idea/TIL.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/modules.xml', '.idea/vcs.xml', 'Computer_Science/EIP/Requirement.md', 'Computer_Science/EIP/images/Data_Flow.png', 'Front_End/04_08/my-app/.gitignore', 'Front_End/04_08/my-app/README.md', 'Front_End/04_08/my-app/package-lock.json', 'Front_End/04_08/my-app/package.json', 'Front_End/04_08/my-app/public/favicon.ico', 'Front_End/04_08/my-app/public/index.html', 'Front_End/04_08/my-app/public/logo192.png', 'Front_End/04_08/my-app/public/logo512.png', 'Front_End/04_08/my-app/public/manifest.json', 'Front_End/04_08/my-app/public/robots.txt', 'Front_End/04_08/my-app/src/App.css', 'Front_End/04_08/my-app/src/App.test.tsx', 'Front_End/04_08/my-app/src/App.tsx', 'Front_End/04_08/my-app/src/index.css', 'Front_End/04_08/my-app/src/index.tsx', 'Front_End/04_08/my-app/src/logo.svg', 'Front_End/04_08/my-app/src/react-app-env.d.ts', 'Front_End/04_08/my-app/src/reportWebVitals.ts', 'Front_End/04_08/my-app/src/setupTests.ts', 'Front_End/04_08/my-app/tsconfig.json']
+[2025-04-22 00:16:22.646581] LLM으로부터 받은 메시지 for MCP/04_09/mcp_commit_log.txt: refactored: Update file structure and project dependencies
+[2025-04-22 00:16:22.646888] [형식 오류] MCP/04_09/mcp_commit_log.txt: refactored: Update file structure and project dependencies
+[2025-04-22 00:16:26.166536] LLM으로부터 받은 메시지 for MCP/04_09/requirements.txt: bump: updated fastapi-mcp to version 0.3.0 in MCP/04_09/requirements.txt
+[2025-04-22 00:16:26.167136] [형식 오류] MCP/04_09/requirements.txt: bump: updated fastapi-mcp to version 0.3.0 in MCP/04_09/requirements.txt
+[2025-04-22 00:16:26.333030] [스킵] .idea/.gitignore: 변경 내용이 없음
+[2025-04-22 00:16:26.497391] [스킵] .idea/.name: 변경 내용이 없음
+[2025-04-22 00:16:26.624102] [스킵] .idea/TIL.iml: 변경 내용이 없음
+[2025-04-22 00:16:26.722618] [스킵] .idea/inspectionProfiles/profiles_settings.xml: 변경 내용이 없음
+[2025-04-22 00:16:26.814228] [스킵] .idea/modules.xml: 변경 내용이 없음
+[2025-04-22 00:16:26.892492] [스킵] .idea/vcs.xml: 변경 내용이 없음
+[2025-04-22 00:16:26.975638] [스킵] Computer_Science/EIP/Requirement.md: 변경 내용이 없음
+[2025-04-22 00:16:27.124951] [스킵] Computer_Science/EIP/images/Data_Flow.png: 변경 내용이 없음
+[2025-04-22 00:16:27.253472] [스킵] Front_End/04_08/my-app/.gitignore: 변경 내용이 없음
+[2025-04-22 00:16:27.395975] [스킵] Front_End/04_08/my-app/README.md: 변경 내용이 없음
+[2025-04-22 00:16:27.508884] [스킵] Front_End/04_08/my-app/package-lock.json: 변경 내용이 없음
+[2025-04-22 00:16:27.599589] [스킵] Front_End/04_08/my-app/package.json: 변경 내용이 없음
+[2025-04-22 00:16:27.702325] [스킵] Front_End/04_08/my-app/public/favicon.ico: 변경 내용이 없음
+[2025-04-22 00:16:27.793077] [스킵] Front_End/04_08/my-app/public/index.html: 변경 내용이 없음
+[2025-04-22 00:16:27.875053] [스킵] Front_End/04_08/my-app/public/logo192.png: 변경 내용이 없음
+[2025-04-22 00:16:27.956948] [스킵] Front_End/04_08/my-app/public/logo512.png: 변경 내용이 없음
+[2025-04-22 00:16:28.061724] [스킵] Front_End/04_08/my-app/public/manifest.json: 변경 내용이 없음
+[2025-04-22 00:16:28.211672] [스킵] Front_End/04_08/my-app/public/robots.txt: 변경 내용이 없음
+[2025-04-22 00:16:28.310621] [스킵] Front_End/04_08/my-app/src/App.css: 변경 내용이 없음
+[2025-04-22 00:16:28.402422] [스킵] Front_End/04_08/my-app/src/App.test.tsx: 변경 내용이 없음
+[2025-04-22 00:16:28.476198] [스킵] Front_End/04_08/my-app/src/App.tsx: 변경 내용이 없음
+[2025-04-22 00:16:28.540845] [스킵] Front_End/04_08/my-app/src/index.css: 변경 내용이 없음
+[2025-04-22 00:16:28.603502] [스킵] Front_End/04_08/my-app/src/index.tsx: 변경 내용이 없음
+[2025-04-22 00:16:28.666369] [스킵] Front_End/04_08/my-app/src/logo.svg: 변경 내용이 없음
+[2025-04-22 00:16:28.733776] [스킵] Front_End/04_08/my-app/src/react-app-env.d.ts: 변경 내용이 없음
+[2025-04-22 00:16:28.801558] [스킵] Front_End/04_08/my-app/src/reportWebVitals.ts: 변경 내용이 없음
+[2025-04-22 00:16:28.865064] [스킵] Front_End/04_08/my-app/src/setupTests.ts: 변경 내용이 없음
+[2025-04-22 00:16:28.930115] [스킵] Front_End/04_08/my-app/tsconfig.json: 변경 내용이 없음
+[2025-04-22 00:16:30.535039] 🌐 모든 커밋 후 push 완료
+[2025-04-22 00:16:46.532537] 변경 파일 목록: ['MCP/04_09/mcp_commit_log.txt', 'MCP/04_09/requirements.txt', '.idea/.gitignore', '.idea/.name', '.idea/TIL.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/modules.xml', '.idea/vcs.xml', 'Computer_Science/EIP/Requirement.md', 'Computer_Science/EIP/images/Data_Flow.png', 'Front_End/04_08/my-app/.gitignore', 'Front_End/04_08/my-app/README.md', 'Front_End/04_08/my-app/package-lock.json', 'Front_End/04_08/my-app/package.json', 'Front_End/04_08/my-app/public/favicon.ico', 'Front_End/04_08/my-app/public/index.html', 'Front_End/04_08/my-app/public/logo192.png', 'Front_End/04_08/my-app/public/logo512.png', 'Front_End/04_08/my-app/public/manifest.json', 'Front_End/04_08/my-app/public/robots.txt', 'Front_End/04_08/my-app/src/App.css', 'Front_End/04_08/my-app/src/App.test.tsx', 'Front_End/04_08/my-app/src/App.tsx', 'Front_End/04_08/my-app/src/index.css', 'Front_End/04_08/my-app/src/index.tsx', 'Front_End/04_08/my-app/src/logo.svg', 'Front_End/04_08/my-app/src/react-app-env.d.ts', 'Front_End/04_08/my-app/src/reportWebVitals.ts', 'Front_End/04_08/my-app/src/setupTests.ts', 'Front_End/04_08/my-app/tsconfig.json']
+[2025-04-22 00:16:51.551246] LLM으로부터 받은 메시지 for MCP/04_09/mcp_commit_log.txt: Based on the changes, here is a one-line commit message following Conventional Commit format in English:
+
+   `update: files added for new feature`
+[2025-04-22 00:16:51.551645] [형식 오류] MCP/04_09/mcp_commit_log.txt: Based on the changes, here is a one-line commit message following Conventional Commit format in English:
+
+   `update: files added for new feature`
+[2025-04-22 00:16:54.862510] LLM으로부터 받은 메시지 for MCP/04_09/requirements.txt: "chore: Update fastapi-mcp to version 0.3.0"
+[2025-04-22 00:16:55.531506] ✅ MCP/04_09/requirements.txt 커밋됨: "chore: Update fastapi-mcp to version 0.3.0"
+[2025-04-22 00:16:55.643270] [스킵] .idea/.gitignore: 변경 내용이 없음
+[2025-04-22 00:16:55.728407] [스킵] .idea/.name: 변경 내용이 없음
+[2025-04-22 00:16:55.807137] [스킵] .idea/TIL.iml: 변경 내용이 없음
+[2025-04-22 00:16:55.906366] [스킵] .idea/inspectionProfiles/profiles_settings.xml: 변경 내용이 없음
+[2025-04-22 00:16:56.013059] [스킵] .idea/modules.xml: 변경 내용이 없음
+[2025-04-22 00:16:56.096059] [스킵] .idea/vcs.xml: 변경 내용이 없음
+[2025-04-22 00:16:56.185831] [스킵] Computer_Science/EIP/Requirement.md: 변경 내용이 없음
+[2025-04-22 00:16:56.282525] [스킵] Computer_Science/EIP/images/Data_Flow.png: 변경 내용이 없음
+[2025-04-22 00:16:56.369155] [스킵] Front_End/04_08/my-app/.gitignore: 변경 내용이 없음
+[2025-04-22 00:16:56.497612] [스킵] Front_End/04_08/my-app/README.md: 변경 내용이 없음
+[2025-04-22 00:16:56.642209] [스킵] Front_End/04_08/my-app/package-lock.json: 변경 내용이 없음
+[2025-04-22 00:16:56.785285] [스킵] Front_End/04_08/my-app/package.json: 변경 내용이 없음
+[2025-04-22 00:16:56.926442] [스킵] Front_End/04_08/my-app/public/favicon.ico: 변경 내용이 없음
+[2025-04-22 00:16:57.039059] [스킵] Front_End/04_08/my-app/public/index.html: 변경 내용이 없음
+[2025-04-22 00:16:57.137768] [스킵] Front_End/04_08/my-app/public/logo192.png: 변경 내용이 없음
+[2025-04-22 00:16:57.228888] [스킵] Front_End/04_08/my-app/public/logo512.png: 변경 내용이 없음
+[2025-04-22 00:16:57.313030] [스킵] Front_End/04_08/my-app/public/manifest.json: 변경 내용이 없음
+[2025-04-22 00:16:57.417883] [스킵] Front_End/04_08/my-app/public/robots.txt: 변경 내용이 없음
+[2025-04-22 00:16:57.630110] [스킵] Front_End/04_08/my-app/src/App.css: 변경 내용이 없음
+[2025-04-22 00:16:57.756372] [스킵] Front_End/04_08/my-app/src/App.test.tsx: 변경 내용이 없음
+[2025-04-22 00:16:57.856800] [스킵] Front_End/04_08/my-app/src/App.tsx: 변경 내용이 없음
+[2025-04-22 00:16:57.964092] [스킵] Front_End/04_08/my-app/src/index.css: 변경 내용이 없음
+[2025-04-22 00:16:58.069494] [스킵] Front_End/04_08/my-app/src/index.tsx: 변경 내용이 없음
+[2025-04-22 00:16:58.162600] [스킵] Front_End/04_08/my-app/src/logo.svg: 변경 내용이 없음
+[2025-04-22 00:16:58.245553] [스킵] Front_End/04_08/my-app/src/react-app-env.d.ts: 변경 내용이 없음
+[2025-04-22 00:16:58.313168] [스킵] Front_End/04_08/my-app/src/reportWebVitals.ts: 변경 내용이 없음
+[2025-04-22 00:16:58.374879] [스킵] Front_End/04_08/my-app/src/setupTests.ts: 변경 내용이 없음
+[2025-04-22 00:16:58.442300] [스킵] Front_End/04_08/my-app/tsconfig.json: 변경 내용이 없음
+[2025-04-22 00:17:00.442804] 🌐 모든 커밋 후 push 완료
+[2025-10-31 09:37:20.239562] 🔌 MCP 서버 시작 준비
+[2025-10-31 09:37:20.239823] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-10-31 09:38:21.549053] 변경 파일 목록: ['Java/Java-OOP.md', 'MCP/04_29/mcp_log.txt', '.idea/.gitignore', '.idea/.name', '.idea/TIL.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/modules.xml', '.idea/vcs.xml', '"AI/\\353\\215\\260\\354\\235\\264\\355\\204\\260 \\354\\210\\230\\354\\247\\221\\354\\213\\234 \\352\\263\\240\\353\\240\\244\\354\\202\\254\\355\\225\\255.md"', '"AI/\\353\\215\\260\\354\\235\\264\\355\\204\\260\\354\\235\\230 \\355\\216\\270\\355\\226\\245.md"', 'CoTest/.gitignore', 'CoTest/.idea/.gitignore', 'CoTest/.idea/misc.xml', 'CoTest/.idea/modules.xml', 'CoTest/.idea/vcs.xml', 'CoTest/CoTest.iml', 'CoTest/src/AC_5430.java', 'CoTest/src/Airport_10775.java', 'CoTest/src/BeautifulName_3080.java', 'CoTest/src/BigNumberFrequency_17299.java', 'CoTest/src/BigPicture_10538.java', 'CoTest/src/ChickenDelivery_15686.java', 'CoTest/src/FinancialLedger_12837.java', 'CoTest/src/Hacking_10282.java', 'CoTest/src/LargeImage/Solution.java', 'CoTest/src/LargeImage/UserSolution.java', 'CoTest/src/LargeImage/sample_input.txt', 'CoTest/src/MovieCollection_3653.java', 'CoTest/src/Multiply_1629.java', 'CoTest/src/NQueen_9663.java', 'CoTest/src/Party_1238.java', 'CoTest/src/PhoneNumber_5052.java', 'CoTest/src/PocketMonster', 'CoTest/src/PocketMonsterMaster_1620.java', 'CoTest/src/Robot_20055.java', 'CoTest/src/Sum_2042.java', 'CoTest/src/SushiBelt_2531.java', 'CoTest/src/Tomato_7569.java', 'CoTest/src/TwoLiquid_2470.java', 'CoTest/src/UserSolution.java', 'CoTest/src/Zelda_4485.java', 'CoTest/src/airport.txt', 'CoTest/src/chickenDeliver.txt', 'CoTest/src/name.txt', 'CoTest/src/phoeNumber.txt', 'CoTest/src/practice.java', 'CoTest/src/tomato.txt', 'CoTest/src/zelda.txt', 'Computer_Science/EIP/Requirement.md', 'Computer_Science/EIP/images/Data_Flow.png', 'Front_End/04_08/my-app/.gitignore', 'Front_End/04_08/my-app/README.md', 'Front_End/04_08/my-app/package-lock.json', 'Front_End/04_08/my-app/package.json', 'Front_End/04_08/my-app/public/favicon.ico', 'Front_End/04_08/my-app/public/index.html', 'Front_End/04_08/my-app/public/logo192.png', 'Front_End/04_08/my-app/public/logo512.png', 'Front_End/04_08/my-app/public/manifest.json', 'Front_End/04_08/my-app/public/robots.txt', 'Front_End/04_08/my-app/src/App.css', 'Front_End/04_08/my-app/src/App.test.tsx', 'Front_End/04_08/my-app/src/App.tsx', 'Front_End/04_08/my-app/src/index.css', 'Front_End/04_08/my-app/src/index.tsx', 'Front_End/04_08/my-app/src/logo.svg', 'Front_End/04_08/my-app/src/react-app-env.d.ts', 'Front_End/04_08/my-app/src/reportWebVitals.ts', 'Front_End/04_08/my-app/src/setupTests.ts', 'Front_End/04_08/my-app/tsconfig.json', 'MCP/04_09.zip', 'TypeScript/Section1/node_modules/.package-lock.json', 'TypeScript/Section1/node_modules/@types/node/LICENSE', 'TypeScript/Section1/node_modules/@types/node/README.md', 'TypeScript/Section1/node_modules/@types/node/assert.d.ts', 'TypeScript/Section1/node_modules/@types/node/assert/strict.d.ts', 'TypeScript/Section1/node_modules/@types/node/async_hooks.d.ts', 'TypeScript/Section1/node_modules/@types/node/buffer.buffer.d.ts', 'TypeScript/Section1/node_modules/@types/node/buffer.d.ts', 'TypeScript/Section1/node_modules/@types/node/child_process.d.ts', 'TypeScript/Section1/node_modules/@types/node/cluster.d.ts', 'TypeScript/Section1/node_modules/@types/node/compatibility/disposable.d.ts', 'TypeScript/Section1/node_modules/@types/node/compatibility/index.d.ts', 'TypeScript/Section1/node_modules/@types/node/compatibility/indexable.d.ts', 'TypeScript/Section1/node_modules/@types/node/compatibility/iterators.d.ts', 'TypeScript/Section1/node_modules/@types/node/console.d.ts', 'TypeScript/Section1/node_modules/@types/node/constants.d.ts', 'TypeScript/Section1/node_modules/@types/node/crypto.d.ts', 'TypeScript/Section1/node_modules/@types/node/dgram.d.ts', 'TypeScript/Section1/node_modules/@types/node/diagnostics_channel.d.ts', 'TypeScript/Section1/node_modules/@types/node/dns.d.ts', 'TypeScript/Section1/node_modules/@types/node/dns/promises.d.ts', 'TypeScript/Section1/node_modules/@types/node/dom-events.d.ts', 'TypeScript/Section1/node_modules/@types/node/domain.d.ts', 'TypeScript/Section1/node_modules/@types/node/events.d.ts', 'TypeScript/Section1/node_modules/@types/node/fs.d.ts', 'TypeScript/Section1/node_modules/@types/node/fs/promises.d.ts', 'TypeScript/Section1/node_modules/@types/node/globals.d.ts', 'TypeScript/Section1/node_modules/@types/node/globals.typedarray.d.ts', 'TypeScript/Section1/node_modules/@types/node/http.d.ts', 'TypeScript/Section1/node_modules/@types/node/http2.d.ts', 'TypeScript/Section1/node_modules/@types/node/https.d.ts', 'TypeScript/Section1/node_modules/@types/node/index.d.ts', 'TypeScript/Section1/node_modules/@types/node/inspector.d.ts', 'TypeScript/Section1/node_modules/@types/node/module.d.ts', 'TypeScript/Section1/node_modules/@types/node/net.d.ts', 'TypeScript/Section1/node_modules/@types/node/os.d.ts', 'TypeScript/Section1/node_modules/@types/node/package.json', 'TypeScript/Section1/node_modules/@types/node/path.d.ts', 'TypeScript/Section1/node_modules/@types/node/perf_hooks.d.ts', 'TypeScript/Section1/node_modules/@types/node/process.d.ts', 'TypeScript/Section1/node_modules/@types/node/punycode.d.ts', 'TypeScript/Section1/node_modules/@types/node/querystring.d.ts', 'TypeScript/Section1/node_modules/@types/node/readline.d.ts', 'TypeScript/Section1/node_modules/@types/node/readline/promises.d.ts', 'TypeScript/Section1/node_modules/@types/node/repl.d.ts', 'TypeScript/Section1/node_modules/@types/node/sea.d.ts', 'TypeScript/Section1/node_modules/@types/node/sqlite.d.ts', 'TypeScript/Section1/node_modules/@types/node/stream.d.ts', 'TypeScript/Section1/node_modules/@types/node/stream/consumers.d.ts', 'TypeScript/Section1/node_modules/@types/node/stream/promises.d.ts', 'TypeScript/Section1/node_modules/@types/node/stream/web.d.ts', 'TypeScript/Section1/node_modules/@types/node/string_decoder.d.ts', 'TypeScript/Section1/node_modules/@types/node/test.d.ts', 'TypeScript/Section1/node_modules/@types/node/timers.d.ts', 'TypeScript/Section1/node_modules/@types/node/timers/promises.d.ts', 'TypeScript/Section1/node_modules/@types/node/tls.d.ts', 'TypeScript/Section1/node_modules/@types/node/trace_events.d.ts', 'TypeScript/Section1/node_modules/@types/node/ts5.6/buffer.buffer.d.ts', 'TypeScript/Section1/node_modules/@types/node/ts5.6/globals.typedarray.d.ts', 'TypeScript/Section1/node_modules/@types/node/ts5.6/index.d.ts', 'TypeScript/Section1/node_modules/@types/node/tty.d.ts', 'TypeScript/Section1/node_modules/@types/node/url.d.ts', 'TypeScript/Section1/node_modules/@types/node/util.d.ts', 'TypeScript/Section1/node_modules/@types/node/v8.d.ts', 'TypeScript/Section1/node_modules/@types/node/vm.d.ts', 'TypeScript/Section1/node_modules/@types/node/wasi.d.ts', 'TypeScript/Section1/node_modules/@types/node/worker_threads.d.ts', 'TypeScript/Section1/node_modules/@types/node/zlib.d.ts', 'TypeScript/Section1/node_modules/undici-types/LICENSE', 'TypeScript/Section1/node_modules/undici-types/README.md', 'TypeScript/Section1/node_modules/undici-types/agent.d.ts', 'TypeScript/Section1/node_modules/undici-types/api.d.ts', 'TypeScript/Section1/node_modules/undici-types/balanced-pool.d.ts', 'TypeScript/Section1/node_modules/undici-types/cache.d.ts', 'TypeScript/Section1/node_modules/undici-types/client.d.ts', 'TypeScript/Section1/node_modules/undici-types/connector.d.ts', 'TypeScript/Section1/node_modules/undici-types/content-type.d.ts', 'TypeScript/Section1/node_modules/undici-types/cookies.d.ts', 'TypeScript/Section1/node_modules/undici-types/diagnostics-channel.d.ts', 'TypeScript/Section1/node_modules/undici-types/dispatcher.d.ts', 'TypeScript/Section1/node_modules/undici-types/env-http-proxy-agent.d.ts', 'TypeScript/Section1/node_modules/undici-types/errors.d.ts', 'TypeScript/Section1/node_modules/undici-types/eventsource.d.ts', 'TypeScript/Section1/node_modules/undici-types/fetch.d.ts', 'TypeScript/Section1/node_modules/undici-types/file.d.ts', 'TypeScript/Section1/node_modules/undici-types/filereader.d.ts', 'TypeScript/Section1/node_modules/undici-types/formdata.d.ts', 'TypeScript/Section1/node_modules/undici-types/global-dispatcher.d.ts', 'TypeScript/Section1/node_modules/undici-types/global-origin.d.ts', 'TypeScript/Section1/node_modules/undici-types/handlers.d.ts', 'TypeScript/Section1/node_modules/undici-types/header.d.ts', 'TypeScript/Section1/node_modules/undici-types/index.d.ts', 'TypeScript/Section1/node_modules/undici-types/interceptors.d.ts', 'TypeScript/Section1/node_modules/undici-types/mock-agent.d.ts', 'TypeScript/Section1/node_modules/undici-types/mock-client.d.ts', 'TypeScript/Section1/node_modules/undici-types/mock-errors.d.ts', 'TypeScript/Section1/node_modules/undici-types/mock-interceptor.d.ts', 'TypeScript/Section1/node_modules/undici-types/mock-pool.d.ts', 'TypeScript/Section1/node_modules/undici-types/package.json', 'TypeScript/Section1/node_modules/undici-types/patch.d.ts', 'TypeScript/Section1/node_modules/undici-types/pool-stats.d.ts', 'TypeScript/Section1/node_modules/undici-types/pool.d.ts', 'TypeScript/Section1/node_modules/undici-types/proxy-agent.d.ts', 'TypeScript/Section1/node_modules/undici-types/readable.d.ts', 'TypeScript/Section1/node_modules/undici-types/retry-agent.d.ts', 'TypeScript/Section1/node_modules/undici-types/retry-handler.d.ts', 'TypeScript/Section1/node_modules/undici-types/util.d.ts', 'TypeScript/Section1/node_modules/undici-types/webidl.d.ts', 'TypeScript/Section1/node_modules/undici-types/websocket.d.ts', 'TypeScript/Section1/package-lock.json', 'TypeScript/Section1/package.json', 'TypeScript/Section1/src/index.js', 'TypeScript/Section1/src/index.ts', 'TypeScript/Section1/tsconfig.json', 'TypeScript/Section2/dist/index.js', 'TypeScript/Section2/node_modules/.package-lock.json', 'TypeScript/Section2/node_modules/@types/node/LICENSE', 'TypeScript/Section2/node_modules/@types/node/README.md', 'TypeScript/Section2/node_modules/@types/node/assert.d.ts', 'TypeScript/Section2/node_modules/@types/node/assert/strict.d.ts', 'TypeScript/Section2/node_modules/@types/node/async_hooks.d.ts', 'TypeScript/Section2/node_modules/@types/node/buffer.buffer.d.ts', 'TypeScript/Section2/node_modules/@types/node/buffer.d.ts', 'TypeScript/Section2/node_modules/@types/node/child_process.d.ts', 'TypeScript/Section2/node_modules/@types/node/cluster.d.ts', 'TypeScript/Section2/node_modules/@types/node/compatibility/disposable.d.ts', 'TypeScript/Section2/node_modules/@types/node/compatibility/index.d.ts', 'TypeScript/Section2/node_modules/@types/node/compatibility/indexable.d.ts', 'TypeScript/Section2/node_modules/@types/node/compatibility/iterators.d.ts', 'TypeScript/Section2/node_modules/@types/node/console.d.ts', 'TypeScript/Section2/node_modules/@types/node/constants.d.ts', 'TypeScript/Section2/node_modules/@types/node/crypto.d.ts', 'TypeScript/Section2/node_modules/@types/node/dgram.d.ts', 'TypeScript/Section2/node_modules/@types/node/diagnostics_channel.d.ts', 'TypeScript/Section2/node_modules/@types/node/dns.d.ts', 'TypeScript/Section2/node_modules/@types/node/dns/promises.d.ts', 'TypeScript/Section2/node_modules/@types/node/dom-events.d.ts', 'TypeScript/Section2/node_modules/@types/node/domain.d.ts', 'TypeScript/Section2/node_modules/@types/node/events.d.ts', 'TypeScript/Section2/node_modules/@types/node/fs.d.ts', 'TypeScript/Section2/node_modules/@types/node/fs/promises.d.ts', 'TypeScript/Section2/node_modules/@types/node/globals.d.ts', 'TypeScript/Section2/node_modules/@types/node/globals.typedarray.d.ts', 'TypeScript/Section2/node_modules/@types/node/http.d.ts', 'TypeScript/Section2/node_modules/@types/node/http2.d.ts', 'TypeScript/Section2/node_modules/@types/node/https.d.ts', 'TypeScript/Section2/node_modules/@types/node/index.d.ts', 'TypeScript/Section2/node_modules/@types/node/inspector.d.ts', 'TypeScript/Section2/node_modules/@types/node/module.d.ts', 'TypeScript/Section2/node_modules/@types/node/net.d.ts', 'TypeScript/Section2/node_modules/@types/node/os.d.ts', 'TypeScript/Section2/node_modules/@types/node/package.json', 'TypeScript/Section2/node_modules/@types/node/path.d.ts', 'TypeScript/Section2/node_modules/@types/node/perf_hooks.d.ts', 'TypeScript/Section2/node_modules/@types/node/process.d.ts', 'TypeScript/Section2/node_modules/@types/node/punycode.d.ts', 'TypeScript/Section2/node_modules/@types/node/querystring.d.ts', 'TypeScript/Section2/node_modules/@types/node/readline.d.ts', 'TypeScript/Section2/node_modules/@types/node/readline/promises.d.ts', 'TypeScript/Section2/node_modules/@types/node/repl.d.ts', 'TypeScript/Section2/node_modules/@types/node/sea.d.ts', 'TypeScript/Section2/node_modules/@types/node/sqlite.d.ts', 'TypeScript/Section2/node_modules/@types/node/stream.d.ts', 'TypeScript/Section2/node_modules/@types/node/stream/consumers.d.ts', 'TypeScript/Section2/node_modules/@types/node/stream/promises.d.ts', 'TypeScript/Section2/node_modules/@types/node/stream/web.d.ts', 'TypeScript/Section2/node_modules/@types/node/string_decoder.d.ts', 'TypeScript/Section2/node_modules/@types/node/test.d.ts', 'TypeScript/Section2/node_modules/@types/node/timers.d.ts', 'TypeScript/Section2/node_modules/@types/node/timers/promises.d.ts', 'TypeScript/Section2/node_modules/@types/node/tls.d.ts', 'TypeScript/Section2/node_modules/@types/node/trace_events.d.ts', 'TypeScript/Section2/node_modules/@types/node/ts5.6/buffer.buffer.d.ts', 'TypeScript/Section2/node_modules/@types/node/ts5.6/globals.typedarray.d.ts', 'TypeScript/Section2/node_modules/@types/node/ts5.6/index.d.ts', 'TypeScript/Section2/node_modules/@types/node/tty.d.ts', 'TypeScript/Section2/node_modules/@types/node/url.d.ts', 'TypeScript/Section2/node_modules/@types/node/util.d.ts', 'TypeScript/Section2/node_modules/@types/node/v8.d.ts', 'TypeScript/Section2/node_modules/@types/node/vm.d.ts', 'TypeScript/Section2/node_modules/@types/node/wasi.d.ts', 'TypeScript/Section2/node_modules/@types/node/worker_threads.d.ts', 'TypeScript/Section2/node_modules/@types/node/zlib.d.ts', 'TypeScript/Section2/node_modules/undici-types/LICENSE', 'TypeScript/Section2/node_modules/undici-types/README.md', 'TypeScript/Section2/node_modules/undici-types/agent.d.ts', 'TypeScript/Section2/node_modules/undici-types/api.d.ts', 'TypeScript/Section2/node_modules/undici-types/balanced-pool.d.ts', 'TypeScript/Section2/node_modules/undici-types/cache.d.ts', 'TypeScript/Section2/node_modules/undici-types/client.d.ts', 'TypeScript/Section2/node_modules/undici-types/connector.d.ts', 'TypeScript/Section2/node_modules/undici-types/content-type.d.ts', 'TypeScript/Section2/node_modules/undici-types/cookies.d.ts', 'TypeScript/Section2/node_modules/undici-types/diagnostics-channel.d.ts', 'TypeScript/Section2/node_modules/undici-types/dispatcher.d.ts', 'TypeScript/Section2/node_modules/undici-types/env-http-proxy-agent.d.ts', 'TypeScript/Section2/node_modules/undici-types/errors.d.ts', 'TypeScript/Section2/node_modules/undici-types/eventsource.d.ts', 'TypeScript/Section2/node_modules/undici-types/fetch.d.ts', 'TypeScript/Section2/node_modules/undici-types/file.d.ts', 'TypeScript/Section2/node_modules/undici-types/filereader.d.ts', 'TypeScript/Section2/node_modules/undici-types/formdata.d.ts', 'TypeScript/Section2/node_modules/undici-types/global-dispatcher.d.ts', 'TypeScript/Section2/node_modules/undici-types/global-origin.d.ts', 'TypeScript/Section2/node_modules/undici-types/handlers.d.ts', 'TypeScript/Section2/node_modules/undici-types/header.d.ts', 'TypeScript/Section2/node_modules/undici-types/index.d.ts', 'TypeScript/Section2/node_modules/undici-types/interceptors.d.ts', 'TypeScript/Section2/node_modules/undici-types/mock-agent.d.ts', 'TypeScript/Section2/node_modules/undici-types/mock-client.d.ts', 'TypeScript/Section2/node_modules/undici-types/mock-errors.d.ts', 'TypeScript/Section2/node_modules/undici-types/mock-interceptor.d.ts', 'TypeScript/Section2/node_modules/undici-types/mock-pool.d.ts', 'TypeScript/Section2/node_modules/undici-types/package.json', 'TypeScript/Section2/node_modules/undici-types/patch.d.ts', 'TypeScript/Section2/node_modules/undici-types/pool-stats.d.ts', 'TypeScript/Section2/node_modules/undici-types/pool.d.ts', 'TypeScript/Section2/node_modules/undici-types/proxy-agent.d.ts', 'TypeScript/Section2/node_modules/undici-types/readable.d.ts', 'TypeScript/Section2/node_modules/undici-types/retry-agent.d.ts', 'TypeScript/Section2/node_modules/undici-types/retry-handler.d.ts', 'TypeScript/Section2/node_modules/undici-types/util.d.ts', 'TypeScript/Section2/node_modules/undici-types/webidl.d.ts', 'TypeScript/Section2/node_modules/undici-types/websocket.d.ts', 'TypeScript/Section2/package-lock.json', 'TypeScript/Section2/package.json', 'TypeScript/Section2/src/chapter1.ts', 'TypeScript/Section2/src/index.ts', 'TypeScript/Section2/tsconfig.json', 'TypeScript/Section3/dist/index.js', 'TypeScript/Section3/node_modules/.package-lock.json', 'TypeScript/Section3/node_modules/@types/node/LICENSE', 'TypeScript/Section3/node_modules/@types/node/README.md', 'TypeScript/Section3/node_modules/@types/node/assert.d.ts', 'TypeScript/Section3/node_modules/@types/node/assert/strict.d.ts', 'TypeScript/Section3/node_modules/@types/node/async_hooks.d.ts', 'TypeScript/Section3/node_modules/@types/node/buffer.buffer.d.ts', 'TypeScript/Section3/node_modules/@types/node/buffer.d.ts', 'TypeScript/Section3/node_modules/@types/node/child_process.d.ts', 'TypeScript/Section3/node_modules/@types/node/cluster.d.ts', 'TypeScript/Section3/node_modules/@types/node/compatibility/disposable.d.ts', 'TypeScript/Section3/node_modules/@types/node/compatibility/index.d.ts', 'TypeScript/Section3/node_modules/@types/node/compatibility/indexable.d.ts', 'TypeScript/Section3/node_modules/@types/node/compatibility/iterators.d.ts', 'TypeScript/Section3/node_modules/@types/node/console.d.ts', 'TypeScript/Section3/node_modules/@types/node/constants.d.ts', 'TypeScript/Section3/node_modules/@types/node/crypto.d.ts', 'TypeScript/Section3/node_modules/@types/node/dgram.d.ts', 'TypeScript/Section3/node_modules/@types/node/diagnostics_channel.d.ts', 'TypeScript/Section3/node_modules/@types/node/dns.d.ts', 'TypeScript/Section3/node_modules/@types/node/dns/promises.d.ts', 'TypeScript/Section3/node_modules/@types/node/dom-events.d.ts', 'TypeScript/Section3/node_modules/@types/node/domain.d.ts', 'TypeScript/Section3/node_modules/@types/node/events.d.ts', 'TypeScript/Section3/node_modules/@types/node/fs.d.ts', 'TypeScript/Section3/node_modules/@types/node/fs/promises.d.ts', 'TypeScript/Section3/node_modules/@types/node/globals.d.ts', 'TypeScript/Section3/node_modules/@types/node/globals.typedarray.d.ts', 'TypeScript/Section3/node_modules/@types/node/http.d.ts', 'TypeScript/Section3/node_modules/@types/node/http2.d.ts', 'TypeScript/Section3/node_modules/@types/node/https.d.ts', 'TypeScript/Section3/node_modules/@types/node/index.d.ts', 'TypeScript/Section3/node_modules/@types/node/inspector.d.ts', 'TypeScript/Section3/node_modules/@types/node/module.d.ts', 'TypeScript/Section3/node_modules/@types/node/net.d.ts', 'TypeScript/Section3/node_modules/@types/node/os.d.ts', 'TypeScript/Section3/node_modules/@types/node/package.json', 'TypeScript/Section3/node_modules/@types/node/path.d.ts', 'TypeScript/Section3/node_modules/@types/node/perf_hooks.d.ts', 'TypeScript/Section3/node_modules/@types/node/process.d.ts', 'TypeScript/Section3/node_modules/@types/node/punycode.d.ts', 'TypeScript/Section3/node_modules/@types/node/querystring.d.ts', 'TypeScript/Section3/node_modules/@types/node/readline.d.ts', 'TypeScript/Section3/node_modules/@types/node/readline/promises.d.ts', 'TypeScript/Section3/node_modules/@types/node/repl.d.ts', 'TypeScript/Section3/node_modules/@types/node/sea.d.ts', 'TypeScript/Section3/node_modules/@types/node/sqlite.d.ts', 'TypeScript/Section3/node_modules/@types/node/stream.d.ts', 'TypeScript/Section3/node_modules/@types/node/stream/consumers.d.ts', 'TypeScript/Section3/node_modules/@types/node/stream/promises.d.ts', 'TypeScript/Section3/node_modules/@types/node/stream/web.d.ts', 'TypeScript/Section3/node_modules/@types/node/string_decoder.d.ts', 'TypeScript/Section3/node_modules/@types/node/test.d.ts', 'TypeScript/Section3/node_modules/@types/node/timers.d.ts', 'TypeScript/Section3/node_modules/@types/node/timers/promises.d.ts', 'TypeScript/Section3/node_modules/@types/node/tls.d.ts', 'TypeScript/Section3/node_modules/@types/node/trace_events.d.ts', 'TypeScript/Section3/node_modules/@types/node/ts5.6/buffer.buffer.d.ts', 'TypeScript/Section3/node_modules/@types/node/ts5.6/globals.typedarray.d.ts', 'TypeScript/Section3/node_modules/@types/node/ts5.6/index.d.ts', 'TypeScript/Section3/node_modules/@types/node/tty.d.ts', 'TypeScript/Section3/node_modules/@types/node/url.d.ts', 'TypeScript/Section3/node_modules/@types/node/util.d.ts', 'TypeScript/Section3/node_modules/@types/node/v8.d.ts', 'TypeScript/Section3/node_modules/@types/node/vm.d.ts', 'TypeScript/Section3/node_modules/@types/node/wasi.d.ts', 'TypeScript/Section3/node_modules/@types/node/worker_threads.d.ts', 'TypeScript/Section3/node_modules/@types/node/zlib.d.ts', 'TypeScript/Section3/node_modules/undici-types/LICENSE', 'TypeScript/Section3/node_modules/undici-types/README.md', 'TypeScript/Section3/node_modules/undici-types/agent.d.ts', 'TypeScript/Section3/node_modules/undici-types/api.d.ts', 'TypeScript/Section3/node_modules/undici-types/balanced-pool.d.ts', 'TypeScript/Section3/node_modules/undici-types/cache.d.ts', 'TypeScript/Section3/node_modules/undici-types/client.d.ts', 'TypeScript/Section3/node_modules/undici-types/connector.d.ts', 'TypeScript/Section3/node_modules/undici-types/content-type.d.ts', 'TypeScript/Section3/node_modules/undici-types/cookies.d.ts', 'TypeScript/Section3/node_modules/undici-types/diagnostics-channel.d.ts', 'TypeScript/Section3/node_modules/undici-types/dispatcher.d.ts', 'TypeScript/Section3/node_modules/undici-types/env-http-proxy-agent.d.ts', 'TypeScript/Section3/node_modules/undici-types/errors.d.ts', 'TypeScript/Section3/node_modules/undici-types/eventsource.d.ts', 'TypeScript/Section3/node_modules/undici-types/fetch.d.ts', 'TypeScript/Section3/node_modules/undici-types/file.d.ts', 'TypeScript/Section3/node_modules/undici-types/filereader.d.ts', 'TypeScript/Section3/node_modules/undici-types/formdata.d.ts', 'TypeScript/Section3/node_modules/undici-types/global-dispatcher.d.ts', 'TypeScript/Section3/node_modules/undici-types/global-origin.d.ts', 'TypeScript/Section3/node_modules/undici-types/handlers.d.ts', 'TypeScript/Section3/node_modules/undici-types/header.d.ts', 'TypeScript/Section3/node_modules/undici-types/index.d.ts', 'TypeScript/Section3/node_modules/undici-types/interceptors.d.ts', 'TypeScript/Section3/node_modules/undici-types/mock-agent.d.ts', 'TypeScript/Section3/node_modules/undici-types/mock-client.d.ts', 'TypeScript/Section3/node_modules/undici-types/mock-errors.d.ts', 'TypeScript/Section3/node_modules/undici-types/mock-interceptor.d.ts', 'TypeScript/Section3/node_modules/undici-types/mock-pool.d.ts', 'TypeScript/Section3/node_modules/undici-types/package.json', 'TypeScript/Section3/node_modules/undici-types/patch.d.ts', 'TypeScript/Section3/node_modules/undici-types/pool-stats.d.ts', 'TypeScript/Section3/node_modules/undici-types/pool.d.ts', 'TypeScript/Section3/node_modules/undici-types/proxy-agent.d.ts', 'TypeScript/Section3/node_modules/undici-types/readable.d.ts', 'TypeScript/Section3/node_modules/undici-types/retry-agent.d.ts', 'TypeScript/Section3/node_modules/undici-types/retry-handler.d.ts', 'TypeScript/Section3/node_modules/undici-types/util.d.ts', 'TypeScript/Section3/node_modules/undici-types/webidl.d.ts', 'TypeScript/Section3/node_modules/undici-types/websocket.d.ts', 'TypeScript/Section3/package-lock.json', 'TypeScript/Section3/package.json', 'TypeScript/Section3/src/chapter2.ts', 'TypeScript/Section3/tsconfig.json']
+[2025-10-31 09:38:25.964499] ❌ LLM 호출 실패(Java/Java-OOP.md): [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+[2025-10-31 09:38:30.355211] ❌ LLM 호출 실패(MCP/04_29/mcp_log.txt): [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+[2025-10-31 09:38:34.780720] ❌ LLM 호출 실패(.idea/.gitignore): [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+[2025-10-31 09:38:39.166372] ❌ LLM 호출 실패(.idea/.name): [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+[2025-10-31 09:38:43.558591] ❌ LLM 호출 실패(.idea/TIL.iml): [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+[2025-10-31 09:38:47.938504] ❌ LLM 호출 실패(.idea/inspectionProfiles/profiles_settings.xml): [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
+[2025-10-31 09:38:57.358248] LLM으로부터 받은 메시지 for .idea/modules.xml: add: .idea/modules.xml (project structure)
+[2025-10-31 09:38:57.358694] [형식 오류] .idea/modules.xml: add: .idea/modules.xml (project structure)
+[2025-10-31 09:39:00.111322] LLM으로부터 받은 메시지 for .idea/vcs.xml: `feat: Initial setup for Git repository`
+[2025-10-31 09:39:00.600836] ✅ .idea/vcs.xml 커밋됨: `feat: Initial setup for Git repository`
+[2025-10-31 09:39:00.704339] [스킵] "AI/\353\215\260\354\235\264\355\204\260 \354\210\230\354\247\221\354\213\234 \352\263\240\353\240\244\354\202\254\355\225\255.md": 변경 내용이 없음
+[2025-10-31 09:39:00.791184] [스킵] "AI/\353\215\260\354\235\264\355\204\260\354\235\230 \355\216\270\355\226\245.md": 변경 내용이 없음
+[2025-10-31 09:39:03.810358] LLM으로부터 받은 메시지 for CoTest/.gitignore: refactor: Updated .gitignore for better project organization and ignore unnecessary files
+[2025-10-31 09:39:04.218962] ✅ CoTest/.gitignore 커밋됨: refactor: Updated .gitignore for better project organization and ignore unnecessary files
+[2025-10-31 09:39:07.384990] LLM으로부터 받은 메시지 for CoTest/.idea/.gitignore: refactor: Added .gitignore for CoTest/.idea to improve project organization and cleanliness
+[2025-10-31 09:39:07.785089] ✅ CoTest/.idea/.gitignore 커밋됨: refactor: Added .gitignore for CoTest/.idea to improve project organization and cleanliness
+[2025-10-31 09:39:10.790999] LLM으로부터 받은 메시지 for CoTest/.idea/misc.xml: refactor: Configure project settings with IntelliJ IDEA
+[2025-10-31 09:39:11.163473] ✅ CoTest/.idea/misc.xml 커밋됨: refactor: Configure project settings with IntelliJ IDEA
+[2025-10-31 09:39:14.083733] LLM으로부터 받은 메시지 for CoTest/.idea/modules.xml: `add: .idea/modules.xml`
+[2025-10-31 09:39:14.083988] [형식 오류] CoTest/.idea/modules.xml: `add: .idea/modules.xml`
+[2025-10-31 09:39:17.033716] LLM으로부터 받은 메시지 for CoTest/.idea/vcs.xml: refactor: Updated project structure with Git VCS configuration
+[2025-10-31 09:39:17.417853] ✅ CoTest/.idea/vcs.xml 커밋됨: refactor: Updated project structure with Git VCS configuration
+[2025-10-31 09:39:20.350965] LLM으로부터 받은 메시지 for CoTest/CoTest.iml: refactor: Modified CoTest module structure for improved organization
+[2025-10-31 09:39:20.724019] ✅ CoTest/CoTest.iml 커밋됨: refactor: Modified CoTest module structure for improved organization
+[2025-10-31 09:39:24.117490] LLM으로부터 받은 메시지 for CoTest/src/AC_5430.java: refactor: Implemented basic structure for AC_5430, added loop and deque operations, initialized variables in main method
+[2025-10-31 09:39:24.474863] ✅ CoTest/src/AC_5430.java 커밋됨: refactor: Implemented basic structure for AC_5430, added loop and deque operations, initialized variables in main method
+[2025-10-31 09:39:27.793002] LLM으로부터 받은 메시지 for CoTest/src/Airport_10775.java: refactor: Organized and simplified Airport_10775 implementation for problem-solving approach
+[2025-10-31 09:39:28.151239] ✅ CoTest/src/Airport_10775.java 커밋됨: refactor: Organized and simplified Airport_10775 implementation for problem-solving approach
+[2025-10-31 09:39:31.373891] LLM으로부터 받은 메시지 for CoTest/src/BeautifulName_3080.java: refactor: Improved data structure and organization for BeautifulName_3080 implementation
+[2025-10-31 09:39:31.739939] ✅ CoTest/src/BeautifulName_3080.java 커밋됨: refactor: Improved data structure and organization for BeautifulName_3080 implementation
+[2025-10-31 09:39:35.068782] LLM으로부터 받은 메시지 for CoTest/src/BigNumberFrequency_17299.java: refactor: Modified structure of BigNumberFrequency_17299.java for better readability
+[2025-10-31 09:39:35.467059] ✅ CoTest/src/BigNumberFrequency_17299.java 커밋됨: refactor: Modified structure of BigNumberFrequency_17299.java for better readability
+[2025-10-31 09:39:38.846877] LLM으로부터 받은 메시지 for CoTest/src/BigPicture_10538.java: refactor: Simplified initialisation and array creation in BigPicture_10538.java
+[2025-10-31 09:39:38.986108] ❌ Git 명령 실패(CoTest/src/BigPicture_10538.java): Command '['git', 'add', 'CoTest/src/BigPicture_10538.java']' returned non-zero exit status 130.
+[2025-10-31 09:39:42.259602] LLM으로부터 받은 메시지 for CoTest/src/ChickenDelivery_15686.java: refactor: Improved file structure and variable declarations for ChickenDelivery_15686.java
+[2025-10-31 09:39:42.763554] ✅ CoTest/src/ChickenDelivery_15686.java 커밋됨: refactor: Improved file structure and variable declarations for ChickenDelivery_15686.java
+[2025-10-31 09:39:45.754815] LLM으로부터 받은 메시지 for CoTest/src/FinancialLedger_12837.java: style: created empty FinancialLedger_12837 class
+[2025-10-31 09:39:46.257730] ✅ CoTest/src/FinancialLedger_12837.java 커밋됨: style: created empty FinancialLedger_12837 class
+[2025-10-31 09:39:49.590781] LLM으로부터 받은 메시지 for CoTest/src/Hacking_10282.java: refactor: Organized code structure and added necessary classes for problem Hacking_10282
+[2025-10-31 09:39:49.990767] ✅ CoTest/src/Hacking_10282.java 커밋됨: refactor: Organized code structure and added necessary classes for problem Hacking_10282
+[2025-10-31 09:39:53.144800] LLM으로부터 받은 메시지 for CoTest/src/LargeImage/Solution.java: refactor: Implemented initialization of Solution class for LargeImage problem in Solution.java
+[2025-10-31 09:39:53.507505] ✅ CoTest/src/LargeImage/Solution.java 커밋됨: refactor: Implemented initialization of Solution class for LargeImage problem in Solution.java
+[2025-10-31 09:39:56.755343] LLM으로부터 받은 메시지 for CoTest/src/LargeImage/UserSolution.java: feat: Implemented dense representation of small images for LargeImage UserSolution
+[2025-10-31 09:39:57.211100] ✅ CoTest/src/LargeImage/UserSolution.java 커밋됨: feat: Implemented dense representation of small images for LargeImage UserSolution
+[2025-10-31 09:40:00.811413] LLM으로부터 받은 메시지 for CoTest/src/LargeImage/sample_input.txt: "update: sample_input for LargeImage"
+[2025-10-31 09:40:00.811672] [형식 오류] CoTest/src/LargeImage/sample_input.txt: "update: sample_input for LargeImage"
+[2025-10-31 09:40:04.024133] LLM으로부터 받은 메시지 for CoTest/src/MovieCollection_3653.java: refactor: Optimized data structure and segment tree implementation in MovieCollection_3653
+[2025-10-31 09:40:04.417686] ✅ CoTest/src/MovieCollection_3653.java 커밋됨: refactor: Optimized data structure and segment tree implementation in MovieCollection_3653
+[2025-10-31 09:40:07.622554] LLM으로부터 받은 메시지 for CoTest/src/Multiply_1629.java: refactor: Optimized multiplication algorithm in Multiply_1629.java for better performance
+[2025-10-31 09:40:07.991071] ✅ CoTest/src/Multiply_1629.java 커밋됨: refactor: Optimized multiplication algorithm in Multiply_1629.java for better performance
+[2025-10-31 09:40:11.249809] LLM으로부터 받은 메시지 for CoTest/src/NQueen_9663.java: feat: Implemented NQueen's problem solution for given input size (9663) in Java
+[2025-10-31 09:40:11.668531] ✅ CoTest/src/NQueen_9663.java 커밋됨: feat: Implemented NQueen's problem solution for given input size (9663) in Java
+[2025-10-31 09:40:15.063465] LLM으로부터 받은 메시지 for CoTest/src/Party_1238.java: refactor: Modified Party_1238.java file structure and added Node class for Dijkstra's algorithm
+[2025-10-31 09:40:15.437403] ✅ CoTest/src/Party_1238.java 커밋됨: refactor: Modified Party_1238.java file structure and added Node class for Dijkstra's algorithm
+[2025-10-31 09:40:18.832538] LLM으로부터 받은 메시지 for CoTest/src/PhoneNumber_5052.java: refactor: Reworked PhoneNumber_5052 class for better Trie structure and improved performance
+[2025-10-31 09:40:19.202970] ✅ CoTest/src/PhoneNumber_5052.java 커밋됨: refactor: Reworked PhoneNumber_5052 class for better Trie structure and improved performance
+[2025-10-31 09:40:22.124347] LLM으로부터 받은 메시지 for CoTest/src/PocketMonster: add: Implemented new PocketMonster data structure
+[2025-10-31 09:40:22.124628] [형식 오류] CoTest/src/PocketMonster: add: Implemented new PocketMonster data structure
+[2025-10-31 09:40:25.408350] LLM으로부터 받은 메시지 for CoTest/src/PocketMonsterMaster_1620.java: refactor: Simplified file structure and variable naming for PocketMonsterMaster_1620
+[2025-10-31 09:40:25.754912] ✅ CoTest/src/PocketMonsterMaster_1620.java 커밋됨: refactor: Simplified file structure and variable naming for PocketMonsterMaster_1620
+[2025-10-31 09:40:29.058673] LLM으로부터 받은 메시지 for CoTest/src/Robot_20055.java: refactor: Modified structure of Robot_20055.java for better readability and flow control
+[2025-10-31 09:40:29.432568] ✅ CoTest/src/Robot_20055.java 커밋됨: refactor: Modified structure of Robot_20055.java for better readability and flow control
+[2025-10-31 09:40:32.799667] LLM으로부터 받은 메시지 for CoTest/src/Sum_2042.java: fix: Corrected typo and missing closing brace in Sum_2042.java
+[2025-10-31 09:40:33.219899] ✅ CoTest/src/Sum_2042.java 커밋됨: fix: Corrected typo and missing closing brace in Sum_2042.java
+[2025-10-31 09:40:36.594365] LLM으로부터 받은 메시지 for CoTest/src/SushiBelt_2531.java: refactor: Improved SushiBelt_2531 by organizing and optimizing map initialization
+[2025-10-31 09:40:36.999556] ✅ CoTest/src/SushiBelt_2531.java 커밋됨: refactor: Improved SushiBelt_2531 by organizing and optimizing map initialization
+[2025-10-31 09:40:42.932571] LLM으로부터 받은 메시지 for CoTest/src/Tomato_7569.java: refactor: Improved data structure and class organization for Tomato_7569.java
+
+위의 변경 내용에서는 `Tomato_7569` 클래스와 관련된 데이터 구조를 리팩토링하고 클래스 구조를 개선했습니다. 새로운 변수 `visited`, `graph`, `dx`, `dy`, `dz`와 같은 배열을 추가하고, `Node` 클래스도 작성했습니다. 이로써 기존의 코드를 더 나은 구조로 만들어 코드 품질을 개선했습니다.
+[2025-10-31 09:40:43.308588] ✅ CoTest/src/Tomato_7569.java 커밋됨: refactor: Improved data structure and class organization for Tomato_7569.java
+
+위의 변경 내용에서는 `Tomato_7569` 클래스와 관련된 데이터 구조를 리팩토링하고 클래스 구조를 개선했습니다. 새로운 변수 `visited`, `graph`, `dx`, `dy`, `dz`와 같은 배열을 추가하고, `Node` 클래스도 작성했습니다. 이로써 기존의 코드를 더 나은 구조로 만들어 코드 품질을 개선했습니다.
+[2025-10-31 09:40:46.630197] LLM으로부터 받은 메시지 for CoTest/src/TwoLiquid_2470.java: refactor: Reorganized TwoLiquid_2470.java for better readability and optimization
+[2025-10-31 09:40:46.987750] ✅ CoTest/src/TwoLiquid_2470.java 커밋됨: refactor: Reorganized TwoLiquid_2470.java for better readability and optimization
+[2025-10-31 09:40:50.254044] LLM으로부터 받은 메시지 for CoTest/src/UserSolution.java: refactor: Created new UserSolution class with product comparison and data structure initialization
+[2025-10-31 09:40:50.312367] ❌ Git 명령 실패(CoTest/src/UserSolution.java): Command '['git', 'add', 'CoTest/src/UserSolution.java']' returned non-zero exit status 3221225786.
+[2025-10-31 09:40:53.586176] LLM으로부터 받은 메시지 for CoTest/src/Zelda_4485.java: refactor: Reorganized Zelda_4485.java for better readability and code organization
+[2025-10-31 09:40:53.950474] ✅ CoTest/src/Zelda_4485.java 커밋됨: refactor: Reorganized Zelda_4485.java for better readability and code organization
+[2025-10-31 09:40:56.725394] LLM으로부터 받은 메시지 for CoTest/src/airport.txt: add: airport data
+[2025-10-31 09:40:56.725704] [형식 오류] CoTest/src/airport.txt: add: airport data
+[2025-10-31 09:40:59.755298] LLM으로부터 받은 메시지 for CoTest/src/chickenDeliver.txt: chores: Created file for chicken delivery simulation (chickenDeliver.txt)
+[2025-10-31 09:40:59.755604] [형식 오류] CoTest/src/chickenDeliver.txt: chores: Created file for chicken delivery simulation (chickenDeliver.txt)
+[2025-10-31 09:41:02.677870] LLM으로부터 받은 메시지 for CoTest/src/name.txt: add: list of names in CoTest/src/name.txt
+[2025-10-31 09:41:02.678213] [형식 오류] CoTest/src/name.txt: add: list of names in CoTest/src/name.txt
+[2025-10-31 09:41:05.556548] LLM으로부터 받은 메시지 for CoTest/src/phoeNumber.txt: add: phoeNumber data
+[2025-10-31 09:41:05.556851] [형식 오류] CoTest/src/phoeNumber.txt: add: phoeNumber data
+[2025-10-31 09:41:08.590565] LLM으로부터 받은 메시지 for CoTest/src/practice.java: `segmenttree: implemented init and update methods for practice`
+[2025-10-31 09:41:08.590843] [형식 오류] CoTest/src/practice.java: `segmenttree: implemented init and update methods for practice`
+[2025-10-31 09:41:11.397355] LLM으로부터 받은 메시지 for CoTest/src/tomato.txt: add: initial tomato matrix data
+[2025-10-31 09:41:11.397598] [형식 오류] CoTest/src/tomato.txt: add: initial tomato matrix data
+[2025-10-31 09:41:14.481198] LLM으로부터 받은 메시지 for CoTest/src/zelda.txt: add: new zelda data structure in zelda.txt file
+[2025-10-31 09:41:14.481457] [형식 오류] CoTest/src/zelda.txt: add: new zelda data structure in zelda.txt file
+[2025-10-31 09:41:18.591139] LLM으로부터 받은 메시지 for Computer_Science/EIP/Requirement.md: feat: Added detailed requirement document for the EIP project, covering software lifecycle, Agile methodologies (Scrum and XP), requirements definition process, and functional/non-functional/user/system requirements.
+[2025-10-31 09:41:18.983467] ✅ Computer_Science/EIP/Requirement.md 커밋됨: feat: Added detailed requirement document for the EIP project, covering software lifecycle, Agile methodologies (Scrum and XP), requirements definition process, and functional/non-functional/user/system requirements.
+[2025-10-31 09:41:19.079188] ⚠️ 파일(Computer_Science/EIP/images/Data_Flow.png) 읽기 실패: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+[2025-10-31 09:41:22.112596] LLM으로부터 받은 메시지 for Computer_Science/EIP/images/Data_Flow.png: add: Computer_Science/EIP/images/Data_Flow.png (added new data flow diagram image)
+[2025-10-31 09:41:22.112841] [형식 오류] Computer_Science/EIP/images/Data_Flow.png: add: Computer_Science/EIP/images/Data_Flow.png (added new data flow diagram image)
+[2025-10-31 09:41:25.050926] LLM으로부터 받은 메시지 for Front_End/04_08/my-app/.gitignore: `ignore: added .gitignore for project`
+[2025-10-31 09:41:25.051154] [형식 오류] Front_End/04_08/my-app/.gitignore: `ignore: added .gitignore for project`
+[2025-10-31 09:41:28.179268] LLM으로부터 받은 메시지 for Front_End/04_08/my-app/README.md: refactor: updated project structure based on Create React App guidelines
+[2025-10-31 09:41:28.652477] ✅ Front_End/04_08/my-app/README.md 커밋됨: refactor: updated project structure based on Create React App guidelines
+[2025-10-31 09:41:32.151505] LLM으로부터 받은 메시지 for Front_End/04_08/my-app/package-lock.json: add: Dependencies updated for my-app, added @adobe/css-tools version 4.4.2
+[2025-10-31 09:41:32.151801] [형식 오류] Front_End/04_08/my-app/package-lock.json: add: Dependencies updated for my-app, added @adobe/css-tools version 4.4.2
+[2025-10-31 09:41:35.312348] LLM으로부터 받은 메시지 for Front_End/04_08/my-app/package.json: feat: added testing libraries and updated dependencies for front-end application
+[2025-10-31 09:41:35.750662] ✅ Front_End/04_08/my-app/package.json 커밋됨: feat: added testing libraries and updated dependencies for front-end application
+[2025-10-31 09:41:35.846502] ⚠️ 파일(Front_End/04_08/my-app/public/favicon.ico) 읽기 실패: 'utf-8' codec can't decode byte 0xe3 in position 14: invalid continuation byte
+[2025-10-31 09:41:38.639329] LLM으로부터 받은 메시지 for Front_End/04_08/my-app/public/favicon.ico: icon: added favicon for my-app in public folder
+[2025-10-31 09:41:38.639620] [형식 오류] Front_End/04_08/my-app/public/favicon.ico: icon: added favicon for my-app in public folder
+[2025-10-31 09:41:41.883837] LLM으로부터 받은 메시지 for Front_End/04_08/my-app/public/index.html: update: added new index.html file with proper meta tags and public url reference
+[2025-10-31 09:41:41.884153] [형식 오류] Front_End/04_08/my-app/public/index.html: update: added new index.html file with proper meta tags and public url reference
+[2025-10-31 09:41:41.973881] ⚠️ 파일(Front_End/04_08/my-app/public/logo192.png) 읽기 실패: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+[2025-10-31 09:41:44.805056] LLM으로부터 받은 메시지 for Front_End/04_08/my-app/public/logo192.png: icon: Updated logo192.png in public folder
+[2025-10-31 09:41:44.805298] [형식 오류] Front_End/04_08/my-app/public/logo192.png: icon: Updated logo192.png in public folder
+[2025-10-31 09:41:44.898741] ⚠️ 파일(Front_End/04_08/my-app/public/logo512.png) 읽기 실패: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+[2025-10-31 09:44:37.324564] 🔌 MCP 서버 시작 준비
+[2025-10-31 09:44:37.324856] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-10-31 09:50:41.254971] 🔌 MCP 서버 시작 준비
+[2025-10-31 09:50:41.255265] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-10-31 09:51:49.416656] 🔌 MCP 서버 시작 준비
+[2025-10-31 09:51:49.417047] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-10-31 09:53:09.837817] 🔌 MCP 서버 시작 준비
+[2025-10-31 09:53:09.838177] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-10-31 09:55:20.921300] 🔌 MCP 서버 시작 준비
+[2025-10-31 09:55:20.921684] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-10-31 09:58:06.994851] 🔌 MCP 서버 시작 준비
+[2025-10-31 09:58:06.995132] 🌐 MCP 서버 주소: http://0.0.0.0:8000
+[2025-10-31 09:58:24.228673] 변경 파일 목록: ['.env.example', '.gitignore', 'README.md', 'auto_commit.py', 'mcp_commit_log.txt', 'mcp_server.py', 'requirements.txt', 'setup_scheduler.ps1']
+[2025-10-31 09:58:30.210922] LLM으로부터 받은 메시지 for .env.example: feat: Configured environment variables for GitHub and Ollama server
+[2025-10-31 09:58:30.438021] ✅ .env.example 커밋됨: feat: Configured environment variables for GitHub and Ollama server
+[2025-10-31 09:58:33.465266] LLM으로부터 받은 메시지 for .gitignore: ```
+  refactor: Update .gitignore for improved Python project structure
+```
+[2025-10-31 09:58:33.621444] ✅ .gitignore 커밋됨: ```
+  refactor: Update .gitignore for improved Python project structure
+```
+[2025-10-31 09:58:44.575700] LLM으로부터 받은 메시지 for README.md: * Feature added: Automatically generate and manage GitHub commits using MCP server with Ollama for Conventional Commit message generation
+   * Daily commit check: Confirm today's commit status using GitHub API
+   * Batch commit: Automatically commit and push all changed files
+   * Support for Untracked files: Automatically handle new files as well
+
+## Installation
+
+### 1. Dependency installation
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Environment variable setup
+
+Create a `.env` file and paste the following content:
+
+```env
+GITHUB_USERNAME=your_github_username
+GITHUB_TOKEN=your_github_token
+TARGET_PATH=C:/path/to/your/repository
+OLLAMA_URL=http://localhost:11434
+LOG_FILE=mcp_commit_log.txt
+```
+
+**Required environment variables:**
+- `GITHUB_USERNAME`: GitHub username
+- `GITHUB_TOKEN`: GitHub Personal Access Token (repo access required)
+
+**Optional environment variables:**
+- `TARGET_PATH`: Path to your Git repository (default: current project directory)
+- `OLLAMA_URL`: Ollama server URL (default: http://localhost:11434)
+- `LOG_FILE`: Log file path (default: mcp_commit_log.txt)
+
+### 3. Install and run Ollama
+
+```bash
+# Olla
+```
+
+Please generate a one-line English Conventional Commit message based on the changes mentioned below:
+
+The format must strictly follow the following pattern: `feat: ...`, `fix: ...`, `refactor: ...`, `docs: ...`, `style: ...`, `chore: ...` etc. If the content is diverse, please choose only one convention that best represents the change. Do not include markdown code blocks, quotes or any other formatting in the commit message.
+[2025-10-31 09:58:44.576040] [형식 오류] README.md: * Feature added: Automatically generate and manage GitHub commits using MCP server with Ollama for Conventional Commit message generation
+   * Daily commit check: Confirm today's commit status using GitHub API
+   * Batch commit: Automatically commit and push all changed files
+   * Support for Untracked files: Automatically handle new files as well
+
+## Installation
+
+### 1. Dependency installation
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Environment variable setup
+
+Create a `.env` file and paste the following content:
+
+```env
+GITHUB_USERNAME=your_github_username
+GITHUB_TOKEN=your_github_token
+TARGET_PATH=C:/path/to/your/repository
+OLLAMA_URL=http://localhost:11434
+LOG_FILE=mcp_commit_log.txt
+```
+
+**Required environment variables:**
+- `GITHUB_USERNAME`: GitHub username
+- `GITHUB_TOKEN`: GitHub Personal Access Token (repo access required)
+
+**Optional environment variables:**
+- `TARGET_PATH`: Path to your Git repository (default: current project directory)
+- `OLLAMA_URL`: Ollama server URL (default: http://localhost:11434)
+- `LOG_FILE`: Log file path (default: mcp_commit_log.txt)
+
+### 3. Install and run Ollama
+
+```bash
+# Olla
+```
+
+Please generate a one-line English Conventional Commit message based on the changes mentioned below:
+
+The format must strictly follow the following pattern: `feat: ...`, `fix: ...`, `refactor: ...`, `docs: ...`, `style: ...`, `chore: ...` etc. If the content is diverse, please choose only one convention that best represents the change. Do not include markdown code blocks, quotes or any other formatting in the commit message.
+[2025-10-31 09:58:47.828790] LLM으로부터 받은 메시지 for auto_commit.py: auto_commit: automated daily commit script for triggering commits when needed on the local machine
+[2025-10-31 09:58:47.829160] [형식 오류] auto_commit.py: auto_commit: automated daily commit script for triggering commits when needed on the local machine
+[2025-10-31 09:58:51.382748] LLM으로부터 받은 메시지 for mcp_commit_log.txt: refactor: Updated check_commit.py, mcp_client.py and added commit log in mcp_commit_log.txt
