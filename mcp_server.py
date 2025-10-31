@@ -144,13 +144,27 @@ def get_file_diff(file: str) -> str:
 
 # LLM으로 메시지 생성
 def generate_commit_message(file: str, diff: str) -> str:
-    prompt = (
-        f'''파일 `{file}`의 변경 내용은 다음과 같습니다:\n{diff}\n\n
-        이 변경 내용을 기반으로 한 줄짜리 Conventional Commit 형식의 커밋 메시지를 영어로 생성해 주세요.
-        \n 형식은 반드시 다음을 따르세요: `feat: ...`, `fix: ...`, `refactor: ...`, `docs: ...`, `style: ...`, `chore: ...` 등.
-        내용이 다양할 경우 가장 핵심적인 convention을 하나만 골라 생성해주세요.
-        마크다운 코드 블록이나 따옴표 없이 순수한 커밋 메시지만 생성하세요.'''
-    )
+    prompt = f"""You are a Git commit message generator. Generate a single-line Conventional Commit message in English.
+
+File: {file}
+Changes:
+{diff[:500]}
+
+STRICT RULES:
+1. Use ONLY these types: feat, fix, docs, style, refactor, test, chore, perf, ci, build
+2. Format: <type>: <description>
+3. ONE line only, no newlines
+4. No markdown, no quotes, no code blocks
+5. Description must be concise (max 72 characters total)
+6. Start with lowercase after colon
+
+Examples:
+- feat: add user authentication
+- fix: resolve memory leak in parser
+- docs: update installation guide
+- refactor: simplify data processing logic
+
+Generate commit message:"""
     payload = {
         "model": "mistral",
         "prompt": prompt,
@@ -160,6 +174,16 @@ def generate_commit_message(file: str, diff: str) -> str:
         res = httpx.post(f"{OLLAMA_URL}/api/generate", json=payload, timeout=30)
         res.raise_for_status()  # HTTP 에러 체크
         commit_msg = res.json().get("response", "").strip()
+        
+        # 후처리: 불필요한 문자 제거
+        commit_msg = commit_msg.strip("`\"' \n")  # 마크다운, 따옴표 제거
+        if commit_msg.startswith("```"):
+            commit_msg = commit_msg.replace("```", "").strip()
+        
+        # 첫 줄만 사용 (혹시 여러 줄이면)
+        if "\n" in commit_msg:
+            commit_msg = commit_msg.split("\n")[0].strip()
+        
         log_message(f"LLM으로부터 받은 메시지 for {file}: {commit_msg}")
         return commit_msg
     except httpx.HTTPStatusError as e:
